@@ -6566,26 +6566,7 @@
          <Cidade>ARACRUZ</Cidade>
          <UF>ES</UF>
       </Servidor>
-      <Servidor>
-         <IdNumRegistro>314</IdNumRegistro>
-         <CPFServidor>07318552724</CPFServidor>
-         <RG>1412752</RG>
-         <SiglaOrgaoRG>SSP</SiglaOrgaoRG>
-         <Nome>MARIA DE LOURDES MATHIAS FEU</Nome>
-         <DataNascimento>1957-08-10</DataNascimento>
-         <Sexo>F</Sexo>
-         <Banco>001</Banco>
-         <Agencia>0829X</Agencia>
-         <Conta>92789</Conta>
-         <EstadoCivil>5</EstadoCivil>
-         <GrauInstrucao>5</GrauInstrucao>
-         <NomePai>DEMILINO FEU</NomePai>
-         <NomeMae>OTTILIA MATHIAS FEU</NomeMae>
-         <Endereco>Rua OCEANIA, 05, MOROBÁ</Endereco>
-         <CEP>29192724</CEP>
-         <Cidade>ARACRUZ</Cidade>
-         <UF>ES</UF>
-      </Servidor>
+
       <Servidor>
          <IdNumRegistro>315</IdNumRegistro>
          <CPFServidor>07335491797</CPFServidor>

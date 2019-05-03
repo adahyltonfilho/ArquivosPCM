@@ -2773,7 +2773,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <IdNumRegistro>33</IdNumRegistro>
          <CodigoCargo>10074</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>0</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>34</IdNumRegistro>

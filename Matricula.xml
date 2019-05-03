@@ -7187,6 +7187,7 @@
          <FundamentacaoBeneficio>500101</FundamentacaoBeneficio>
          <CPFInstituidorBeneficio>08211995794</CPFInstituidorBeneficio>
          <NomeOrgaoInstituidorBeneficio>PREFEITURA MUNICIPAL DE ARACRUZ</NomeOrgaoInstituidorBeneficio>
+		 <NumeroMatriculaInstituidorBeneficio>15806</NumeroMatriculaInstituidorBeneficio>
       </Matricula>
       <Matricula>
          <IdNumRegistro>343</IdNumRegistro>
@@ -7207,7 +7208,8 @@
          <FundamentacaoBeneficio>500602</FundamentacaoBeneficio>
          <CPFInstituidorBeneficio>08335596727</CPFInstituidorBeneficio>
          <NomeOrgaoInstituidorBeneficio>PREFEITURA MUNICIPAL DE ARACRUZ</NomeOrgaoInstituidorBeneficio>
-      </Matricula>
+         <NumeroMatriculaInstituidorBeneficio>14168</NumeroMatriculaInstituidorBeneficio>
+	  </Matricula>
       <Matricula>
          <IdNumRegistro>344</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
@@ -7827,7 +7829,7 @@
          <TipoMatricula>1</TipoMatricula>
          <FormaIngresso>1</FormaIngresso>
          <Previdencia>1</Previdencia>
-         <CNPJFundoPrevidencia>36330231000100</CNPJFundoPrevidencia>
+         
          <PrevidenciaComplementar>3</PrevidenciaComplementar>
          <TipoCargaHoraria>S</TipoCargaHoraria>
          <ValorCargaHoraria>30</ValorCargaHoraria>
@@ -8759,6 +8761,7 @@
          <TempoServicoRGPS>0</TempoServicoRGPS>
          <TempoServicoRPPS>0</TempoServicoRPPS>
          <DedicacaoExclusiva>N</DedicacaoExclusiva>
+		 <RegistroPonto>1</RegistroPonto>
          <RegimePlantao>N</RegimePlantao>
       </Matricula>
       <Matricula>
@@ -12873,7 +12876,8 @@
          <FundamentacaoBeneficio>500301</FundamentacaoBeneficio>
          <CPFInstituidorBeneficio>47963107700</CPFInstituidorBeneficio>
          <NomeOrgaoInstituidorBeneficio>PREFEITURA MUNICIPAL DE ARACRUZ</NomeOrgaoInstituidorBeneficio>
-      </Matricula>
+         <NumeroMatriculaInstituidorBeneficio>1343</NumeroMatriculaInstituidorBeneficio>
+	  </Matricula>
       <Matricula>
          <IdNumRegistro>614</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
@@ -13145,7 +13149,8 @@
          <FundamentacaoBeneficio>500602</FundamentacaoBeneficio>
          <CPFInstituidorBeneficio>11009841785</CPFInstituidorBeneficio>
          <NomeOrgaoInstituidorBeneficio>PREFEITURA MUNICIPAL DE ARACRUZ</NomeOrgaoInstituidorBeneficio>
-      </Matricula>
+		 <NumeroMatriculaInstituidorBeneficio>16071</NumeroMatriculaInstituidorBeneficio>
+	  </Matricula>
       <Matricula>
          <IdNumRegistro>627</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
@@ -13165,7 +13170,8 @@
          <FundamentacaoBeneficio>500102</FundamentacaoBeneficio>
          <CPFInstituidorBeneficio>48579491720</CPFInstituidorBeneficio>
          <NomeOrgaoInstituidorBeneficio>PREFEITURA MUNICIPAL DE ARACRUZ</NomeOrgaoInstituidorBeneficio>
-      </Matricula>
+		 <NumeroMatriculaInstituidorBeneficio>234</NumeroMatriculaInstituidorBeneficio>     
+	 </Matricula>
       <Matricula>
          <IdNumRegistro>628</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
@@ -26965,7 +26971,8 @@
          <FundamentacaoBeneficio>500102</FundamentacaoBeneficio>
          <CPFInstituidorBeneficio>97941018772</CPFInstituidorBeneficio>
          <NomeOrgaoInstituidorBeneficio>PREFEITURA MUNICIPAL DE ARACRUZ</NomeOrgaoInstituidorBeneficio>
-      </Matricula>
+         <NumeroMatriculaInstituidorBeneficio>9067</NumeroMatriculaInstituidorBeneficio>
+	  </Matricula>
       <Matricula>
          <IdNumRegistro>1285</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
@@ -28288,7 +28295,7 @@
       <Cessao>
          <IdNumRegistro>5</IdNumRegistro>
          <CPFServidor>02005568783</CPFServidor>
-         <CodigoCargo>10139</CodigoCargo>
+         <CodigoCargo>10077</CodigoCargo>
          <NumeroMatricula>1042</NumeroMatricula>
          <DataInicio>1990-12-27</DataInicio>
          <SituacaoCessao>2</SituacaoCessao>
