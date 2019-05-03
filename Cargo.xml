@@ -8,10 +8,10 @@
          <TipoCargo>99</TipoCargo>
          <ValorTetoRemuneratorio>17669.70</ValorTetoRemuneratorio>
          <TipoVinculo>1</TipoVinculo>
-         <NaturezaCargo>1</NaturezaCargo> 
+         <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Pedagogia</AreaFormacao>
+     <AreaFormacao>Pedagogia</AreaFormacao>
          <HabilitacaoInvestidura>Curso de nível Superior Completo na área de atuação e registro no respectivo conselho de classe.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Participar da elaboração do projeto pedagógico de sua unidade escolar; Cumprir plano de trabalho, segundo o Projeto pedagógico; Elaborar programas e planos de aula.</AtribuicoesCargo>
          <CBO>231210</CBO>
@@ -33,7 +33,7 @@
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>ENSINO FUNDAMENTAL - SERIES INICIAIS</AreaFormacao>
+     <AreaFormacao>ENSINO FUNDAMENTAL - SERIES INICIAIS</AreaFormacao>
          <HabilitacaoInvestidura>ENSINO FUNDAMENTAL</HabilitacaoInvestidura>
          <AtribuicoesCargo> compreende os cargos que se destinam a executar, sob supervisão, tarefas braçais simples, que não exijam conhecimentos ou habilidades especiais, tais como varrição de ruas, parques e jardins, limpeza de ralos, caixas de passagem e bocas-de-lobo, capina e roçada de terrenos, transporte de materiais de construção, móveis, equipamentos e ferramentas, carga e descarga de veículos
 
@@ -57,7 +57,7 @@
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>ENSINO FUNDAMENTAL - SERIES INICIAIS</AreaFormacao>
+     <AreaFormacao>ENSINO FUNDAMENTAL - SERIES INICIAIS</AreaFormacao>
          <HabilitacaoInvestidura>ENSINO FUNDAMENTAL - SERIES INICIAIS</HabilitacaoInvestidura>
          <AtribuicoesCargo> compreende os cargos que se destinam a executar, sob supervisão, tarefas braçais simples, que não exijam conhecimentos ou habilidades especiais, tais como varrição de ruas, parques e jardins, limpeza de ralos, caixas de passagem e bocas-de-lobo, capina e roçada de terrenos, transporte de materiais de construção, móveis, equipamentos e ferramentas, carga e descarga de veículos
 
@@ -81,7 +81,7 @@
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Arquitetura</AreaFormacao>
+     <AreaFormacao>Arquitetura</AreaFormacao>
          <HabilitacaoInvestidura>Curso de nível superior completo na área de atuação e registro no respectivo conselho de classe.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Analisar propostas arquitetônicas, observando  tipo, dimensões, estilo de edificação, bem como custos estimados e materiais a serem empregados, duração e outros detalhes do empreendimento, para determinar as características essenciais à elaboração do projeto;
 
@@ -109,7 +109,7 @@
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>Ensino Fundamental Completo</AreaFormacao>
+     <AreaFormacao>Ensino Fundamental Completo</AreaFormacao>
          <HabilitacaoInvestidura>Treinamento específico a ser realizado no local de trabalho relacionado às atribuições do cargo.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Executar atividades relacionadas à limpeza de salas, móveis, janelas, pisos, paredes, tapetes, banheiros, recolhimento de lixo e resíduos, utilizando equipamentos e produtos apropriados. Preparar e servir café, chá e lanches aos colaboradores e visitantes.</AtribuicoesCargo>
          <CBO>411005</CBO>
@@ -131,7 +131,7 @@
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Nível Superior</AreaFormacao>
+     <AreaFormacao>Nível Superior</AreaFormacao>
          <HabilitacaoInvestidura>Nível Superior</HabilitacaoInvestidura>
          <AtribuicoesCargo>Viabilizar a implantação de projetos sociais, acompanhando e avaliando seu desenvolvimento;
 prestar assistência às pessoas nas suas necessidades básicas, orientando-as para o acesso aos serviços,
@@ -157,7 +157,7 @@ convivência em sociedade.
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino Médio</AreaFormacao>
+     <AreaFormacao>Ensino Médio</AreaFormacao>
          <HabilitacaoInvestidura>Ensino Médio</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Digitar texto, fichas e documentos;
  -Executar serviços de mecanografia;
@@ -181,7 +181,7 @@ atender ao público, interno e externo, prestando informações simples, anotand
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino Médio Completo</AreaFormacao>
+     <AreaFormacao>Ensino Médio Completo</AreaFormacao>
          <HabilitacaoInvestidura>Mediante Concurso Público</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Auxiliar nas atividades de classificação e catalogação de documentos, manuscritos, livros, periódicos e outras
 publicações;
@@ -208,7 +208,7 @@ desejado, fazendo reservas ou empréstimos;
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Técnico de Nível Médio</AreaFormacao>
+     <AreaFormacao>Técnico de Nível Médio</AreaFormacao>
          <HabilitacaoInvestidura>Técnico de Nível Médio</HabilitacaoInvestidura>
          <AtribuicoesCargo>Realizar testes musculares, de amplitude articular, de verificação cinética; Planejar e executar tratamentos de afecçoes reumáticas, osteoporoses..; Ensinar aos pacientes exercícios corretivos para coluna, defeitos dos pés, orientando-os e treinando-os em exercícios ginásticos especiais.</AtribuicoesCargo>
          <CBO>223605</CBO>
@@ -230,7 +230,7 @@ desejado, fazendo reservas ou empréstimos;
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>ENSINO FUNDAMENTAL E SERIES INICIAIS</AreaFormacao>
+     <AreaFormacao>ENSINO FUNDAMENTAL E SERIES INICIAIS</AreaFormacao>
          <HabilitacaoInvestidura>ENSINO FUNDAMENTAL E SERIES INICIAIS</HabilitacaoInvestidura>
          <AtribuicoesCargo>compreende os cargos que se destinam a executar, sob supervisão, tarefas braçais simples, que não exijam conhecimentos ou habilidades especiais, tais como varrição de ruas, parques e jardins, limpeza de ralos, caixas de passagem e bocas-de-lobo, capina e roçada de terrenos, transporte de materiais de construção, móveis, equipamentos e ferramentas, carga e descarga de veículos</AtribuicoesCargo>
          <CBO>717020</CBO>
@@ -252,7 +252,7 @@ desejado, fazendo reservas ou empréstimos;
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>Ensino fundamental, séries iniciais.</AreaFormacao>
+     <AreaFormacao>Ensino fundamental, séries iniciais.</AreaFormacao>
          <HabilitacaoInvestidura>ensino fundamental, séries iniciais.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Compreende os cargos que se destinam a auxiliar na execução de serviços administrativos simples, operar máquinas duplicadoras e realizar pequenos mandados externos, bem como recepcionar e identificar os visitantes da Prefeitura. Compreende, também, as atividades elementares de jardineiro.</AtribuicoesCargo>
          <CBO>411005</CBO>
@@ -274,7 +274,7 @@ desejado, fazendo reservas ou empréstimos;
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>ENSINO FUNDAMENTAL E SERIES INICIAIS</AreaFormacao>
+     <AreaFormacao>ENSINO FUNDAMENTAL E SERIES INICIAIS</AreaFormacao>
          <HabilitacaoInvestidura>ENSINO FUNDAMENTAL E SERIES INICIAIS</HabilitacaoInvestidura>
          <AtribuicoesCargo>compreende os cargos que se destinam a executar, sob supervisão, tarefas braçais simples, que não exijam conhecimentos ou habilidades especiais, tais como varrição de ruas, parques e jardins, limpeza de ralos, caixas de passagem e bocas-de-lobo, capina e roçada de terrenos, transporte de materiais de construção, móveis, equipamentos e ferramentas, carga e descarga de veículos</AtribuicoesCargo>
          <CBO>717020</CBO>
@@ -296,7 +296,7 @@ desejado, fazendo reservas ou empréstimos;
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>ENSINO MÉDIO</AreaFormacao>
+     <AreaFormacao>ENSINO MÉDIO</AreaFormacao>
          <HabilitacaoInvestidura>ENSINO MÉDIO</HabilitacaoInvestidura>
          <AtribuicoesCargo>compreende os cargos que se destinam a executar, sob supervisão, tarefas braçais simples, que não exijam conhecimentos ou habilidades especiais, tais como varrição de ruas, parques e jardins, limpeza de ralos, caixas de passagem e bocas-de-lobo, capina e roçada de terrenos, transporte de materiais de construção, móveis, equipamentos e ferramentas, carga e descarga de veículos</AtribuicoesCargo>
          <CBO>717020</CBO>
@@ -318,7 +318,7 @@ desejado, fazendo reservas ou empréstimos;
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>ENSINO FUNDAMENTAL SERIE INICIAIS</AreaFormacao>
+     <AreaFormacao>ENSINO FUNDAMENTAL SERIE INICIAIS</AreaFormacao>
          <HabilitacaoInvestidura>ENSINO FUNDAMENTAL SERIE INICIAIS</HabilitacaoInvestidura>
          <AtribuicoesCargo>Compreende os cargos que se destinam a auxiliar na execução de serviços administrativos simples, operar máquinas duplicadoras e realizar pequenos mandados externos, bem como recepcionar e identificar os visitantes da Prefeitura. Compreende, também, as atividades elementares de jardineiro.</AtribuicoesCargo>
          <CBO>412205</CBO>
@@ -340,7 +340,7 @@ desejado, fazendo reservas ou empréstimos;
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>Ensino Fundamental  Séries Iniciais </AreaFormacao>
+     <AreaFormacao>Ensino Fundamental  Séries Iniciais </AreaFormacao>
          <HabilitacaoInvestidura>Ensino Fundamental</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Analisar as características do trabalho, examinando instruções e ordens de serviço, para determinar os tipos de
 materiais e equipamentos a serem utilizados;
@@ -367,7 +367,7 @@ marcações.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Ensino Superior - Pedagogia</AreaFormacao>
+     <AreaFormacao>Ensino Superior - Pedagogia</AreaFormacao>
          <HabilitacaoInvestidura>Licenciatura plena em Pedagogia com habilitação em Supervisão Escolar, orientação escolar, administração escolar ou inspeção escolar, ou curso de formação de especialistas a nível pós graduação ''lato-Sensu"" especialização, exigindo três anos de experiência docente, no mínimo.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Coordenar a elaboração e a execução do Projeto Pedagógico da escola; Coordenar, no âmbito da Secretaria de Educação/escola, as atividades de planejamento, avaliação e desenvolvimento profissional.</AtribuicoesCargo>
          <CBO>239415</CBO>
@@ -389,7 +389,7 @@ marcações.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>ENSINO FUNDAMENTAL  SÉRIES  INICIAIS</AreaFormacao>
+     <AreaFormacao>ENSINO FUNDAMENTAL  SÉRIES  INICIAIS</AreaFormacao>
          <HabilitacaoInvestidura>ENSINO FUNDAMENTAL  SÉRIES  INICIAIS</HabilitacaoInvestidura>
          <AtribuicoesCargo>Compreende os cargos que se destinam a auxiliar na execução de serviços administrativos simples, operar máquinas duplicadoras e realizar pequenos mandados externos, bem como recepcionar e identificar os visitantes da Prefeitura. Compreende, também, as atividades elementares de jardineiro.</AtribuicoesCargo>
          <CBO>992205</CBO>
@@ -411,7 +411,7 @@ marcações.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Engenharia</AreaFormacao>
+     <AreaFormacao>Engenharia</AreaFormacao>
          <HabilitacaoInvestidura>Curso de Nível Superior Completo na área de atuação e registro no respectivo conselho de classe.</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Avaliar as condições requeridas para obras, estudando o projeto e examinando as características do terreno disponível para a construção;
 -Calcular os esforços e deformações previstos na obra projetada ou que afetem a mesma, consultando tabelas e efetuando comparações, levando em consideração fatores como carga calculada, pressões de água, resistência aos ventos e mudanças de temperatura, para apurar a natureza dos materiais que devem ser utilizados na construção;</AtribuicoesCargo>
@@ -434,7 +434,7 @@ marcações.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>ensino médio completo</AreaFormacao>
+     <AreaFormacao>ensino médio completo</AreaFormacao>
          <HabilitacaoInvestidura>domínio da legislação referente à sua área de atuação; conhecimento de processador de textos e de planilha eletrônica; habilitação para a condução de veículos (categoria B), motos (categoria A), conforme necessidade especificada em edital de concurso público</HabilitacaoInvestidura>
          <AtribuicoesCargo>-         verificar e orientar o cumprimento da regulamentação urbanística concernente a obras públicas e particulares;
 
@@ -469,7 +469,7 @@ marcações.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino médio.</AreaFormacao>
+     <AreaFormacao>Ensino médio.</AreaFormacao>
          <HabilitacaoInvestidura>domínio da legislação referente à sua área de atuação; conhecimento de processador de textos e de planilha eletrônica; habilitação para a condução de veículos (categoria B), motos (categoria A), conforme necessidade especificada em edital de concurso público.</HabilitacaoInvestidura>
          <AtribuicoesCargo>-     planejar, coordenar e realizar a fiscalização externa, coligindo, examinando, selecionando e preparando os elementos necessários à ação fiscalizadora;
 
@@ -505,7 +505,7 @@ marcações.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>ensino médio completo</AreaFormacao>
+     <AreaFormacao>ensino médio completo</AreaFormacao>
          <HabilitacaoInvestidura>ensino médio completo</HabilitacaoInvestidura>
          <AtribuicoesCargo>      -         exercer vigilância sobre a área florestal sob sua guarda, percorrendo a propriedade ou observando-a do alto de uma torre, para localizar incêndios  e descobrir irregularidades, como presença de estranhos, caça e outras práticas danosas;
 
@@ -534,7 +534,7 @@ marcações.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>11</EscolaridadeMinima>
-         <AreaFormacao>Ensino Fundamental</AreaFormacao>
+     <AreaFormacao>Ensino Fundamental</AreaFormacao>
          <HabilitacaoInvestidura>Ensino Fundamental</HabilitacaoInvestidura>
          <AtribuicoesCargo>Diariamente  apara  a  grama  nas  áreas  verdes  da  empresa  cliente  utilizando-se  de 
 máquina roçadeira: prepara e opera o equipamento movimentando as lâminas de corte 
@@ -560,7 +560,7 @@ utilizando-se  de  facões  e  tesouras  específicas  para  tal  fim.  Limpa  o
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Nível Superior</AreaFormacao>
+     <AreaFormacao>Nível Superior</AreaFormacao>
          <HabilitacaoInvestidura>Nível Superior</HabilitacaoInvestidura>
          <AtribuicoesCargo>Efetuar a coleta de material, empregando as técnicas e os instrumentos adequados; Manipular substâncias químicas, físicas e biológicas, dosando-as conforme especificações, para a realização dos exames requeridos; realizar exames hematológicos, coprológicos, de urina, baciloscopia, e outrso.</AtribuicoesCargo>
          <CBO>301105</CBO>
@@ -582,7 +582,7 @@ utilizando-se  de  facões  e  tesouras  específicas  para  tal  fim.  Limpa  o
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Medicina</AreaFormacao>
+     <AreaFormacao>Medicina</AreaFormacao>
          <HabilitacaoInvestidura>Curso de nível superior completo</HabilitacaoInvestidura>
          <AtribuicoesCargo>Participar do processo de elaboração do planejamento, organização, execução, avaliação e regulação dos serviços de saúde; Cumprir os protocolos clínicos instituídos pelo Município; realizar procedimentos cirúrgicos ambulatoriais; Realizar partos em situações emergenciais; entre outros.</AtribuicoesCargo>
          <CBO>225125</CBO>
@@ -604,7 +604,7 @@ utilizando-se  de  facões  e  tesouras  específicas  para  tal  fim.  Limpa  o
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>Ensino Fundamental - Séries Finais</AreaFormacao>
+     <AreaFormacao>Ensino Fundamental - Séries Finais</AreaFormacao>
          <HabilitacaoInvestidura>Ensino Fundamental ? Séries Finais</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Estudar o programa de produção, interpretando projetos, desenhos, especificações, ordens e outros
 documentos, para avaliar as necessidades de mão de obra, materiais, equipamentos e prazos.
@@ -628,7 +628,7 @@ documentos, para avaliar as necessidades de mão de obra, materiais, equipamento
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>Ensino Fundamental completo </AreaFormacao>
+     <AreaFormacao>Ensino Fundamental completo </AreaFormacao>
          <HabilitacaoInvestidura>Ensino Fundamental completo </HabilitacaoInvestidura>
          <AtribuicoesCargo>Executar, nos horários determinados, a higiene corporal e bucal das crianças;
 acompanhar e cuidar das crianças, durante a permanência nas Instituições de Ensino;
@@ -653,7 +653,7 @@ zelar pelo material sob sua responsabilidade</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>ensino fundamental</AreaFormacao>
+     <AreaFormacao>ensino fundamental</AreaFormacao>
          <HabilitacaoInvestidura>habilitação para condução de veículos na categoria ?D? ou ?E?e curso específico quando na função de condução de veículos de emergência e de cargas perigosas</HabilitacaoInvestidura>
          <AtribuicoesCargo>-         dirigir automóveis, caminhonetes e demais veículos de transporte de passageiros;
 
@@ -680,7 +680,7 @@ zelar pelo material sob sua responsabilidade</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Odontologia</AreaFormacao>
+     <AreaFormacao>Odontologia</AreaFormacao>
          <HabilitacaoInvestidura>Curso de Nível Superior Completo na área de atuação e registro no respectivo conselho de Classe.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Participar do processo de elaboração do planejamento, organização, execução, avaliação e regulação dos serviços de saúde; Cumprir os protocolos clínicos instituídos pelo Município;Realizar tratamento curativo, e preventivo; Realizar atendimentos de urgência.</AtribuicoesCargo>
          <CBO>223240</CBO>
@@ -702,7 +702,7 @@ zelar pelo material sob sua responsabilidade</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>Ensino Fundamental - Séries Finais.</AreaFormacao>
+     <AreaFormacao>Ensino Fundamental - Séries Finais.</AreaFormacao>
          <HabilitacaoInvestidura>Habilitação para condução de máquinas.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Operar motoniveladora, retroescavadeira, pá carregadeira, trator de esteira, trator agrícola, rolo compactador,
 motoniveladoras, carregadeiras, escavadeira hidráulica e outros tratores e reboques, para execução de
@@ -727,7 +727,7 @@ pavimentação, desmatamento, retirada de cascalhos, dragagens em rios  e conser
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Pedagogia</AreaFormacao>
+     <AreaFormacao>Pedagogia</AreaFormacao>
          <HabilitacaoInvestidura>Curso de nível Superior Completo na área de atuação e registro no respectivo conselho de classe.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Participar da elaboração do projeto pedagógico de sua unidade escolar; Cumprir plano de trabalho, segundo o Projeto pedagógico; Elaborar programas e planos de aula.</AtribuicoesCargo>
          <CBO>232140</CBO>
@@ -749,7 +749,7 @@ pavimentação, desmatamento, retirada de cascalhos, dragagens em rios  e conser
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Pedagogia</AreaFormacao>
+     <AreaFormacao>Pedagogia</AreaFormacao>
          <HabilitacaoInvestidura>Curso de nível Superior Completo na área de atuação e registro no respectivo conselho de classe.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Participar da elaboração do projeto pedagógico de sua unidade escolar; Cumprir plano de trabalho, segundo o Projeto pedagógico; Elaborar programas e planos de aula.</AtribuicoesCargo>
          <CBO>331305</CBO>
@@ -771,7 +771,7 @@ pavimentação, desmatamento, retirada de cascalhos, dragagens em rios  e conser
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Pedagogia</AreaFormacao>
+     <AreaFormacao>Pedagogia</AreaFormacao>
          <HabilitacaoInvestidura>Curso de nível Superior Completo na área de atuação e registro no respectivo conselho de classe.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Participar da elaboração do projeto pedagógico de sua unidade escolar; Cumprir plano de trabalho, segundo o Projeto pedagógico; Elaborar programas e planos de aula.</AtribuicoesCargo>
          <CBO>231340</CBO>
@@ -783,7 +783,7 @@ pavimentação, desmatamento, retirada de cascalhos, dragagens em rios  e conser
          <IdadeMaxima>65</IdadeMaxima>
          <OrigemCargo>2</OrigemCargo>
       </Cargo>
-	  <Cargo>
+      <Cargo>
          <IdNumRegistro>33</IdNumRegistro>
          <CodigoCargo>10074</CodigoCargo>
          <NomeCargo>PEDAGOGO</NomeCargo>
@@ -815,7 +815,7 @@ pavimentação, desmatamento, retirada de cascalhos, dragagens em rios  e conser
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino Médio Completo</AreaFormacao>
+     <AreaFormacao>Ensino Médio Completo</AreaFormacao>
          <HabilitacaoInvestidura>Conhecimentos gerais de informática e em especial de editor de texto, planilhas eletrônicas e internet.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Participar de projetos desenvolvidos em quaisquer unidades organizacionais, planejando, programando,
 coordenando, controlando, avaliando resultados e informando decisões, para aperfeiçoar a qualidade do
@@ -839,7 +839,7 @@ processo gerencial da Prefeitura;coordenar, assessorar a coordenação ou monito
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>ENSINO MEDIO</AreaFormacao>
+     <AreaFormacao>ENSINO MEDIO</AreaFormacao>
          <HabilitacaoInvestidura>ENSINO MEDIO COMPLETO</HabilitacaoInvestidura>
          <AtribuicoesCargo>compreende os cargos que se destinam a executar serviços administrativos relativamente complexos.
 
@@ -863,7 +863,7 @@ processo gerencial da Prefeitura;coordenar, assessorar a coordenação ou monito
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>ENSINO MEDIO</AreaFormacao>
+     <AreaFormacao>ENSINO MEDIO</AreaFormacao>
          <HabilitacaoInvestidura>ENSINO MEDIO</HabilitacaoInvestidura>
          <AtribuicoesCargo>compreende os cargos que se destinam a auxiliar na execução de serviços administrativos que envolvam maior grau de complexidade e requeiram certo grau de autonomia.
 
@@ -887,7 +887,7 @@ processo gerencial da Prefeitura;coordenar, assessorar a coordenação ou monito
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>ENSINO MEDIO COMPLETO</AreaFormacao>
+     <AreaFormacao>ENSINO MEDIO COMPLETO</AreaFormacao>
          <HabilitacaoInvestidura>conhecimento de processador de textos, planilhas eletrônicas, internet</HabilitacaoInvestidura>
          <AtribuicoesCargo>compreende os cargos que se destinam a executar tarefas de apoio administrativo que envolvam maior grau de complexidade e requeiram certa autonomia, inclusive quanto a manejar fundos em moeda corrente, cheques, empenhos, notas fiscais e outros recibos, para assegurar a regularidade das transações financeiras.</AtribuicoesCargo>
          <CBO>411010</CBO>
@@ -909,7 +909,7 @@ processo gerencial da Prefeitura;coordenar, assessorar a coordenação ou monito
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>ENSINO MEDIO</AreaFormacao>
+     <AreaFormacao>ENSINO MEDIO</AreaFormacao>
          <HabilitacaoInvestidura>conhecimento de processador de textos, planilhas eletrônicas, internet</HabilitacaoInvestidura>
          <AtribuicoesCargo>compreende os cargos que se destinam a executar e coordenar tarefas de apoio técnico-administrativo aos trabalhos e projetos de diversas áreas, desenvolvendo atividades mais complexas que requeiram certo grau de autonomia e envolvam coordenação e supervisão, inclusive quanto a manejar fundos em moeda corrente, cheques, empenhos, notas fiscais e outros recibos, para assegurar a regularidade das transações financeiras.</AtribuicoesCargo>
          <CBO>411010</CBO>
@@ -931,7 +931,7 @@ processo gerencial da Prefeitura;coordenar, assessorar a coordenação ou monito
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>Ensino fundamental</AreaFormacao>
+     <AreaFormacao>Ensino fundamental</AreaFormacao>
          <HabilitacaoInvestidura>Serviços gerais e merenda escolar.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Compreende os cargos que se destinam a auxiliar na execução de serviços administrativos simples, operar máquinas duplicadoras e realizar pequenos mandados externos, bem como recepcionar e identificar os visitantes da Prefeitura. Compreende, também, as atividades elementares de jardineiro.</AtribuicoesCargo>
          <CBO>411005</CBO>
@@ -953,7 +953,7 @@ processo gerencial da Prefeitura;coordenar, assessorar a coordenação ou monito
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>ensino fundamental, séries iniciais.</AreaFormacao>
+     <AreaFormacao>ensino fundamental, séries iniciais.</AreaFormacao>
          <HabilitacaoInvestidura>ensino fundamental, séries iniciais.</HabilitacaoInvestidura>
          <AtribuicoesCargo>      atender visitantes ou funcionários, indagando suas pretensões, para informá-los conforme seus pedidos;
 
@@ -982,7 +982,7 @@ processo gerencial da Prefeitura;coordenar, assessorar a coordenação ou monito
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino Médio Completo</AreaFormacao>
+     <AreaFormacao>Ensino Médio Completo</AreaFormacao>
          <HabilitacaoInvestidura>domínio da legislação referente à sua área de atuação; conhecimento de processador de textos e de planilha eletrônica; habilitação para a condução de veículos (categoria B), motos (categoria A), conforme necessidade especificada em edital de concurso público.
 
  
@@ -1011,7 +1011,7 @@ compreende os cargos que se destinam a executar trabalhos de fiscalização nos 
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino Médio Completo</AreaFormacao>
+     <AreaFormacao>Ensino Médio Completo</AreaFormacao>
          <HabilitacaoInvestidura>Domínio da legislação referente à sua área de atuação; conhecimento de processador de textos e de planilha eletrônica; habilitação para a condução de veículos (categoria B), motos (categoria A), conforme necessidade especificada em edital de concurso público.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Compreende os cargos que se destinam a executar trabalhos de fiscalização nos campos de: preservação do meio ambiente, obras públicas e particulares, licenciamento de atividades comerciais, industriais e de prestação de serviços, orientação e esclarecimento de contribuintes quanto ao cumprimento das obrigações legais referentes ao pagamento de tributos, fazendo, em todos os casos, cumprir a legislação municipal.
 </AtribuicoesCargo>
@@ -1034,7 +1034,7 @@ compreende os cargos que se destinam a executar trabalhos de fiscalização nos 
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Agrimensura, agropecuária, desenho, contabilidade, edificações, eletrotécnica, estradas, informática, saneamento, segurança do trabalho e biblioteca.</AreaFormacao>
+     <AreaFormacao>Agrimensura, agropecuária, desenho, contabilidade, edificações, eletrotécnica, estradas, informática, saneamento, segurança do trabalho e biblioteca.</AreaFormacao>
          <HabilitacaoInvestidura>Curso de nível médio ou técnico de nível médio, de acordo com a área de atuação e registro no respectivo conselho de classe, quando se tratar de profissão regulamentada.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Compreende as atribuições que exigem aplicação de conhecimentos teóricos de média complexidade e natureza muito variada. Os problemas surgidos são de média complexidade e as soluções são, em geral, conhecidas. As atribuições são executadas sob orientação dos profissionais de níveis hierárquicos superiores.</AtribuicoesCargo>
          <CBO>411005</CBO>
@@ -1056,7 +1056,7 @@ compreende os cargos que se destinam a executar trabalhos de fiscalização nos 
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Agrimensura, agropecuária, desenho, contabilidade, edificações, eletrotécnica, estradas, informática, saneamento, segurança do trabalho e biblioteca.</AreaFormacao>
+     <AreaFormacao>Agrimensura, agropecuária, desenho, contabilidade, edificações, eletrotécnica, estradas, informática, saneamento, segurança do trabalho e biblioteca.</AreaFormacao>
          <HabilitacaoInvestidura>Curso de nível médio ou técnico de nível médio, de acordo com a área de atuação e registro no respectivo conselho de classe, quando se tratar de profissão regulamentada.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Compreende as atribuições que exigem aplicação de conhecimentos teóricos de média complexidade e natureza muito variada. Os problemas surgidos são de média complexidade e as soluções são, em geral, conhecidas. As atribuições são executadas sob orientação dos profissionais de níveis hierárquicos superiores.</AtribuicoesCargo>
          <CBO>411005</CBO>
@@ -1078,7 +1078,7 @@ compreende os cargos que se destinam a executar trabalhos de fiscalização nos 
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Ação social, administração / administração pública, arquitetura, arquivologia, auditor interno, biblioteconomia, ciências da computação, comunicação, contabilidade, direito, economia, educação física, engenharia agrônoma, engenharia elétrica, engenharia civil, engenharia florestal/pesca, engenharia química, engenharia sanitária, fonoaudiologia, meio ambiente, nutrição, procuradoria, jurídica, produção, cultural, psicologia, serviço social, turismo.</AreaFormacao>
+     <AreaFormacao>Ação social, administração / administração pública, arquitetura, arquivologia, auditor interno, biblioteconomia, ciências da computação, comunicação, contabilidade, direito, economia, educação física, engenharia agrônoma, engenharia elétrica, engenharia civil, engenharia florestal/pesca, engenharia química, engenharia sanitária, fonoaudiologia, meio ambiente, nutrição, procuradoria, jurídica, produção, cultural, psicologia, serviço social, turismo.</AreaFormacao>
          <HabilitacaoInvestidura>Técnico de nível superior</HabilitacaoInvestidura>
          <AtribuicoesCargo>Compreende as atribuições que exigem aplicação de conhecimentos teóricos de menor complexidade e natureza não muito variada. Os problemas surgidos são, em geral, de fácil resolução ou já têm solução conhecida. As atribuições, de abrangência limitada, são executadas, inicialmente, sob orientação dos profissionais de níveis hierárquicos superiores. A autonomia do ocupante aumenta com a acumulação de experiência e a orientação assume, gradativamente, caráter geral e esporádico. A permanência na classe caracteriza-se também como o período necessário à integração do profissional à cultura, objetivos e práticas de trabalho da instituição.</AtribuicoesCargo>
          <CBO>351305</CBO>
@@ -1100,7 +1100,7 @@ compreende os cargos que se destinam a executar trabalhos de fiscalização nos 
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Ação social, administração / administração pública, arquitetura, arquivologia, auditor interno, biblioteconomia, ciências da computação, comunicação, contabilidade, direito, economia, educação física, engenharia agrônoma,  engenharia elétrica, engenharia civil, engenharia florestal/pesca, engenharia química, engenharia sanitária, fonoaudiologia, meio ambiente, nutrição, procuradoria jurídica, produção cultural, psicologia, serviço social, turismo. 
+     <AreaFormacao>Ação social, administração / administração pública, arquitetura, arquivologia, auditor interno, biblioteconomia, ciências da computação, comunicação, contabilidade, direito, economia, educação física, engenharia agrônoma,  engenharia elétrica, engenharia civil, engenharia florestal/pesca, engenharia química, engenharia sanitária, fonoaudiologia, meio ambiente, nutrição, procuradoria jurídica, produção cultural, psicologia, serviço social, turismo. 
  
 		</AreaFormacao>
          <HabilitacaoInvestidura>Curso de nível superior completo na área de atuação e registro no respectivo conselho de classe.</HabilitacaoInvestidura>
@@ -1126,7 +1126,7 @@ compreende os cargos que se destinam a executar trabalhos de fiscalização nos 
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Pedagogia</AreaFormacao>
+     <AreaFormacao>Pedagogia</AreaFormacao>
          <HabilitacaoInvestidura>Curso de nível Superior Completo na área de atuação e registro no respectivo conselho de classe.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Participar da elaboração do projeto pedagógico de sua unidade escolar; Cumprir plano de trabalho, segundo o Projeto pedagógico; Elaborar programas e planos de aula.</AtribuicoesCargo>
          <CBO>331205</CBO>
@@ -1148,7 +1148,7 @@ compreende os cargos que se destinam a executar trabalhos de fiscalização nos 
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Pedagogia</AreaFormacao>
+     <AreaFormacao>Pedagogia</AreaFormacao>
          <HabilitacaoInvestidura>Curso de nível Superior Completo na área de atuação e registro no respectivo conselho de classe.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Participar da elaboração do projeto pedagógico de sua unidade escolar; Cumprir plano de trabalho, segundo o Projeto pedagógico; Elaborar programas e planos de aula.</AtribuicoesCargo>
          <CBO>234740</CBO>
@@ -1170,7 +1170,7 @@ compreende os cargos que se destinam a executar trabalhos de fiscalização nos 
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino Fundamental</AreaFormacao>
+     <AreaFormacao>Ensino Fundamental</AreaFormacao>
          <HabilitacaoInvestidura>Ensino Fundamental</HabilitacaoInvestidura>
          <AtribuicoesCargo>Compreende os cargos que se destinam a executar, sob supervisão, tarefas braçais simples, que não exijam conhecimentos ou habilidades especiais, tais como varrição de ruas, parques e jardins, limpeza de ralos, caixas de passagem e bocas-de-lobo, capina e roçada de terrenos, transporte de materiais de construção, móveis, equipamentos e ferramentas, carga e descarga de veículos</AtribuicoesCargo>
          <CBO>314410</CBO>
@@ -1192,7 +1192,7 @@ compreende os cargos que se destinam a executar trabalhos de fiscalização nos 
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>NÍVEL TÉCNICO</AreaFormacao>
+     <AreaFormacao>NÍVEL TÉCNICO</AreaFormacao>
          <HabilitacaoInvestidura>Curso de nível médio ou técnico de nível médio, de acordo com a área de atuação e registro no respectivo conselho de classe, quando se tratar de profissão regulamentada.</HabilitacaoInvestidura>
          <AtribuicoesCargo> Auxiliar na organização dos serviços de contabilidade da Prefeitura, envolvendo o plano de contas, o sistema de livros e documentos e o método de escrituração, para possibilitar o controle contábil e orçamentário;
 
@@ -1224,7 +1224,7 @@ compreende os cargos que se destinam a executar trabalhos de fiscalização nos 
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>1</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Técnico de Nível Médio</AreaFormacao>
+     <AreaFormacao>Técnico de Nível Médio</AreaFormacao>
          <HabilitacaoInvestidura>Curso técnico de nível médio, de acordo com a área de atuação e registro no respectivo conselho de classe.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Efetuar a coleta de material, empregando as técnicas e os instrumentos adequados; Manipular substâncias químicas, físicas e biológicas, dosoando-as conforme especificações, para a realização dos exames requeridos.</AtribuicoesCargo>
          <CBO>301105</CBO>
@@ -1246,7 +1246,7 @@ compreende os cargos que se destinam a executar trabalhos de fiscalização nos 
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino Médio Completo</AreaFormacao>
+     <AreaFormacao>Ensino Médio Completo</AreaFormacao>
          <HabilitacaoInvestidura>Informática básica; Tratamento de água; Tratamento de esgoto; Operação de ETA e ETE; Conhecimentos de química.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Operar as instalações da estação de tratamento de água, dirigindo seu fluxo, misturando-lhe substâncias químicas e filtrando-a para purifica-la e torna-la adequada ao uso doméstico, comercial e industrial.</AtribuicoesCargo>
          <CBO>862205</CBO>
@@ -1268,7 +1268,7 @@ compreende os cargos que se destinam a executar trabalhos de fiscalização nos 
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Nível Técnico </AreaFormacao>
+     <AreaFormacao>Nível Técnico </AreaFormacao>
          <HabilitacaoInvestidura>Curso Técnico de Nível Médio. Conhecimentos básicos de processador de textos, planilhas eletrônicas, internet.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Selecionar os filmes a serem utilizados, de acordo com o tipo de radiografia requisitada pelo médico, e colocá-las no chassi; Posicionar o paciente adequadamente, medindo as distâncias para focalização da área a ser radiografada; Operar equipamentos de raios-X, acionando os dispositivos apropriados, para radiografar a área determinada.</AtribuicoesCargo>
          <CBO>324115</CBO>
@@ -1290,7 +1290,7 @@ compreende os cargos que se destinam a executar trabalhos de fiscalização nos 
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>Ensino Fundamental ? Séries Iniciais</AreaFormacao>
+     <AreaFormacao>Ensino Fundamental ? Séries Iniciais</AreaFormacao>
          <HabilitacaoInvestidura>Ensino Fundamental ? Séries Iniciais</HabilitacaoInvestidura>
          <AtribuicoesCargo>Executar serviços de construção, manutenção e demolição de obras de alvenaria; Construir alicerces, empregando pedras ou cimento, para fornecer a base de paredes, muros e construções similares; Assentar tijolos, ladrilhos, azulejos, pedras e outros materiais, tais como: paralelepípedos, bloquetes etc; Revestir pisos, paredes e tetos, aplicando camadas de cimento ou assentando ladrilhos, azulejos e
 similares, de acordo com instruções recebidas.</AtribuicoesCargo>
@@ -1313,7 +1313,7 @@ similares, de acordo com instruções recebidas.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Curso de Técnico em Saúde Bucal   </AreaFormacao>
+     <AreaFormacao>Curso de Técnico em Saúde Bucal   </AreaFormacao>
          <HabilitacaoInvestidura>Curso de Técnico em Saúde Bucal   com   registro   no Conselho   Regional   de Odontologia e Registro no conselho regional da classe.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Curso de Técnico em Saúde Bucal   com   registro   no Conselho   Regional   de Odontologia e Registro no conselho regional da classe.</AtribuicoesCargo>
          <CBO>322415</CBO>
@@ -1335,7 +1335,7 @@ similares, de acordo com instruções recebidas.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Enfermagem</AreaFormacao>
+     <AreaFormacao>Enfermagem</AreaFormacao>
          <HabilitacaoInvestidura>Ensino   Médio   completo   e curso    técnico     de Enfermagem, com   registro   no   conselho regional de classe.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Exercer atividades auxiliares, de nível técnico
 atribuído à equipe de enfermagem como: assistir
@@ -1370,7 +1370,7 @@ desinfecção de todo material.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Nível Médio</AreaFormacao>
+     <AreaFormacao>Nível Médio</AreaFormacao>
          <HabilitacaoInvestidura>Ensino   Médio   e   curso técnico   de  Laboratório  em
 Análises   Clínicas   ou Técnico   em   Patologia
 Clínica.</HabilitacaoInvestidura>
@@ -1401,7 +1401,7 @@ tratamento ou prevenção de doenças.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>ENSINO FUNDAMENTAL</AreaFormacao>
+     <AreaFormacao>ENSINO FUNDAMENTAL</AreaFormacao>
          <HabilitacaoInvestidura>ENSINO FUNDAMENTAL</HabilitacaoInvestidura>
          <AtribuicoesCargo>-         manter vigilância sobre depósitos de materiais, estacionamentos, pátios, áreas abertas, centros de esportes, escolas, obras em execução e edifícios onde funcionam repartições municipais;
 
@@ -1435,7 +1435,7 @@ tratamento ou prevenção de doenças.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino médio completo</AreaFormacao>
+     <AreaFormacao>Ensino médio completo</AreaFormacao>
          <HabilitacaoInvestidura>Conhecimento de processador de textos, planilhas eletrônicas e internet.</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Executar tarefas relacionadas com a gestão dos recursos humanos tais como cadastrar novos servidores no sistema em vigor, atualizar dados cadastrais através da consulta aos assentamentos pessoais e funcionais dos mesmos;
 -Apurar freqüência nos cartões de ponto e efetuar os cálculos para lançamentos na folha de pagamento de horas-extras, descontos, pagamento de diárias, adicionais noturnos, entre outros;
@@ -1464,7 +1464,7 @@ Verificar e conferir a documentação necessária à admissão por contrato admi
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>11</EscolaridadeMinima>
-         <AreaFormacao>Sem exigência.</AreaFormacao>
+     <AreaFormacao>Sem exigência.</AreaFormacao>
          <HabilitacaoInvestidura>Alvenaria e revestimento, calceteria, serviços de marteleteiro, usinagem de asfalto, pintura, pintura-letrista, carpintaria, hidráulica, solda, armação de ferro, jardinagem e viveirista, operação de roçada costal, sepultamento, elétrica, abastecimento de veículos, vigilância ambiental
 
  
@@ -1502,7 +1502,7 @@ Verificar e conferir a documentação necessária à admissão por contrato admi
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Curso Técnico de Nível Médio</AreaFormacao>
+     <AreaFormacao>Curso Técnico de Nível Médio</AreaFormacao>
          <HabilitacaoInvestidura>Curso Técnico de Nível Médio</HabilitacaoInvestidura>
          <AtribuicoesCargo>Dispor os instrumentos odontológicos sobre o local apropriado, colocando-os na ordem de utilização para passá-los ao cirurgião dentista durante a consulta ou ato operatório; Prepara o paciente para consultas ou cirurgias; Orientar o paciente sobre higiene bucal.</AtribuicoesCargo>
          <CBO>322415</CBO>
@@ -1524,7 +1524,7 @@ Verificar e conferir a documentação necessária à admissão por contrato admi
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Nível Técnico de Ensino Médio</AreaFormacao>
+     <AreaFormacao>Nível Técnico de Ensino Médio</AreaFormacao>
          <HabilitacaoInvestidura>Nível Técnico de Ensino Médio</HabilitacaoInvestidura>
          <AtribuicoesCargo>Dispor os instrumentos odontológicos sobre local apropriado, colocando-os na ordem de utilização para passá-los ao cirurgião dentista durante a consulta ou ato operatório; Preparar o paciente para consultas ou cirurgias; Orientar os pacientes sobre higiene bucal.</AtribuicoesCargo>
          <CBO>223208</CBO>
@@ -1546,7 +1546,7 @@ Verificar e conferir a documentação necessária à admissão por contrato admi
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Pedagogia</AreaFormacao>
+     <AreaFormacao>Pedagogia</AreaFormacao>
          <HabilitacaoInvestidura>Curso de nível Superior Completo na área de atuação e registro no respectivo conselho de classe.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Participar da elaboração do projeto pedagógico de sua unidade escolar; Cumprir plano de trabalho, segundo o Projeto pedagógico; Elaborar programas e planos de aula.</AtribuicoesCargo>
          <CBO>232130</CBO>
@@ -1568,7 +1568,7 @@ Verificar e conferir a documentação necessária à admissão por contrato admi
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>DIREITO</AreaFormacao>
+     <AreaFormacao>DIREITO</AreaFormacao>
          <HabilitacaoInvestidura>CURSO DE NIVEL SUPERIOR COMPLETO NA AREA DE ATUAÇÃO E REGISTRO NO RESPECTIVO CONSELHO DE CLASSE.</HabilitacaoInvestidura>
          <AtribuicoesCargo>- Assessoramento e acompanhamento
 - Emitir parecer tecnico</AtribuicoesCargo>
@@ -1591,7 +1591,7 @@ Verificar e conferir a documentação necessária à admissão por contrato admi
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>ensino fundamental, séries iniciais.</AreaFormacao>
+     <AreaFormacao>ensino fundamental, séries iniciais.</AreaFormacao>
          <HabilitacaoInvestidura>Serviços Gerais e Merenda Escolar</HabilitacaoInvestidura>
          <AtribuicoesCargo>Compreende os cargos que se destinam a auxiliar na execução de serviços administrativos simples, operar máquinas duplicadoras e realizar pequenos mandados externos, bem como recepcionar e identificar os visitantes da Prefeitura. Compreende, também, as atividades elementares de jardineiro.</AtribuicoesCargo>
          <CBO>411005</CBO>
@@ -1613,7 +1613,7 @@ Verificar e conferir a documentação necessária à admissão por contrato admi
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino Médio Completo</AreaFormacao>
+     <AreaFormacao>Ensino Médio Completo</AreaFormacao>
          <HabilitacaoInvestidura>Ensino Médio Completo</HabilitacaoInvestidura>
          <AtribuicoesCargo>Atender fornecedores na tesouraria objetivando pagamento através de cheque nominal;  Receber dinheiro em espécie e em cheques, confrontando a importância com as notas emitidas, para efetuar a quitação de impostos, taxas e outros.</AtribuicoesCargo>
          <CBO>142115</CBO>
@@ -1635,7 +1635,7 @@ Verificar e conferir a documentação necessária à admissão por contrato admi
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Formação docente de Nível Superior</AreaFormacao>
+     <AreaFormacao>Formação docente de Nível Superior</AreaFormacao>
          <HabilitacaoInvestidura>Cursando normal superior e registro na entidade.
 </HabilitacaoInvestidura>
          <AtribuicoesCargo>-Participar da elaboração do projeto pedagógico de sua unidade escolar;
@@ -1660,7 +1660,7 @@ Verificar e conferir a documentação necessária à admissão por contrato admi
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Educação Física</AreaFormacao>
+     <AreaFormacao>Educação Física</AreaFormacao>
          <HabilitacaoInvestidura>Cursar superior e registro na entidade.</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Participar da elaboração do projeto pedagógico de sua unidade escolar;
 -Cumprir plano de trabalho, segundo o Projeto pedagógico de sua unidade escolar;
@@ -1685,7 +1685,7 @@ Verificar e conferir a documentação necessária à admissão por contrato admi
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Nível Médio Completo</AreaFormacao>
+     <AreaFormacao>Nível Médio Completo</AreaFormacao>
          <HabilitacaoInvestidura>Liderança; Funções básicas gerenciais; Relacionamento Interpessoal; Ferramentas de informática; Conhecimento técnico de projetos e obras de saneamento; Operação e manutenção de sistema de água e de esgoto.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Executar serviços de construção, manutenção e demolição de obras de alvenaria.</AtribuicoesCargo>
          <CBO>862305</CBO>
@@ -1707,7 +1707,7 @@ Verificar e conferir a documentação necessária à admissão por contrato admi
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>Ensino Fundamental - Séries inicias</AreaFormacao>
+     <AreaFormacao>Ensino Fundamental - Séries inicias</AreaFormacao>
          <HabilitacaoInvestidura>Ensino Fundamental - Séries iniciais</HabilitacaoInvestidura>
          <AtribuicoesCargo>Executar serviços de construção, manutenção e demolição de obras de alvenaria.
 </AtribuicoesCargo>
@@ -1730,7 +1730,7 @@ Verificar e conferir a documentação necessária à admissão por contrato admi
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>Nível  Fundamental</AreaFormacao>
+     <AreaFormacao>Nível  Fundamental</AreaFormacao>
          <HabilitacaoInvestidura>Mediante concurso público </HabilitacaoInvestidura>
          <AtribuicoesCargo>Alvenaria e revestimento, calceteria, serviços de marteleteiro, usinagem de asfalto, pintura, pintura-letrista, carpintaria, hidráulica, solda, armação de ferro, jardinagem e viveirista, operação de roçada costal, sepultamento, elétrica, abastecimento de veículos, vigilância ambiental</AtribuicoesCargo>
          <CBO>717020</CBO>
@@ -1752,7 +1752,7 @@ Verificar e conferir a documentação necessária à admissão por contrato admi
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Nível Médio Completo</AreaFormacao>
+     <AreaFormacao>Nível Médio Completo</AreaFormacao>
          <HabilitacaoInvestidura>Nível Médio Completo</HabilitacaoInvestidura>
          <AtribuicoesCargo>Coordenar e participar de trabalhos referentes a elaboração de projetos visando a construção e/ou ampliação de redes de abastecimento de água e de coleta e tratamento de esgoto;
 Coordenar, colaborar e executar trabalhos referentes as atividades de operação e manutenção dos sistemas de abastecimento de água e de coleta e tratamento de esgotos;</AtribuicoesCargo>
@@ -1775,7 +1775,7 @@ Coordenar, colaborar e executar trabalhos referentes as atividades de operação
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>Ensino Fundamental</AreaFormacao>
+     <AreaFormacao>Ensino Fundamental</AreaFormacao>
          <HabilitacaoInvestidura>Ensino Fundamental</HabilitacaoInvestidura>
          <AtribuicoesCargo>      atender visitantes ou funcionários, indagando suas pretensões, para informá-los conforme seus pedidos;
 
@@ -1804,7 +1804,7 @@ Coordenar, colaborar e executar trabalhos referentes as atividades de operação
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino Médio</AreaFormacao>
+     <AreaFormacao>Ensino Médio</AreaFormacao>
          <HabilitacaoInvestidura>Ensino Médio</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Digitar texto, fichas e documentos;
 -Executar serviços de mecanografia;
@@ -1829,7 +1829,7 @@ Coordenar, colaborar e executar trabalhos referentes as atividades de operação
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>Ensino Fundamental</AreaFormacao>
+     <AreaFormacao>Ensino Fundamental</AreaFormacao>
          <HabilitacaoInvestidura>Mediante Concurso Público</HabilitacaoInvestidura>
          <AtribuicoesCargo>Alvenaria e revestimento, calceteria, serviços de marteleteiro, usinagem de asfalto, pintura, pintura-letrista, carpintaria, hidráulica, solda, armação de ferro, jardinagem e viveirista, operação de roçada costal, sepultamento, elétrica, abastecimento de veículos, vigilância ambiental</AtribuicoesCargo>
          <CBO>717020</CBO>
@@ -1851,7 +1851,7 @@ Coordenar, colaborar e executar trabalhos referentes as atividades de operação
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>Ensino fundamental completo</AreaFormacao>
+     <AreaFormacao>Ensino fundamental completo</AreaFormacao>
          <HabilitacaoInvestidura>Conhecimento de processador de textos, planilhas eletrônicas e internet.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Digitar texto, fichas e documentos;
 Executar serviços de mecanografia;
@@ -1883,7 +1883,7 @@ Controlar o fichário e/ou arquivo de documentos organizando-os e mantendo-os at
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino Médio</AreaFormacao>
+     <AreaFormacao>Ensino Médio</AreaFormacao>
          <HabilitacaoInvestidura>Conhecimento de processador de textos, planilhas eletrônicas, internet</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Prestar informações de caráter geral, pessoalmente ou por telefone, anotando e transmitindo recados;
 -Redigir a correspondência e documentos de rotina, observando os padrões estabelecidos de forma e estilo para assegurar o funcionamento do sistema de comunicação interna e externa;
@@ -1912,7 +1912,7 @@ Controlar o fichário e/ou arquivo de documentos organizando-os e mantendo-os at
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>ENSINO MEDIO COMPLETO</AreaFormacao>
+     <AreaFormacao>ENSINO MEDIO COMPLETO</AreaFormacao>
          <HabilitacaoInvestidura>ENSINO MEDIO COMPLETO</HabilitacaoInvestidura>
          <AtribuicoesCargo> compreende os cargos que se destinam a executar serviços administrativos relativamente complexos.
 
@@ -1936,7 +1936,7 @@ Controlar o fichário e/ou arquivo de documentos organizando-os e mantendo-os at
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>ENSINO MEDIO COMPLETO</AreaFormacao>
+     <AreaFormacao>ENSINO MEDIO COMPLETO</AreaFormacao>
          <HabilitacaoInvestidura>ENSINO MEDIO COMPLETO</HabilitacaoInvestidura>
          <AtribuicoesCargo>compreende os cargos que se destinam a executar tarefas de apoio administrativo que envolvam maior grau de complexidade e requeiram certa autonomia, inclusive quanto a manejar fundos em moeda corrente, cheques, empenhos, notas fiscais e outros recibos, para assegurar a regularidade das transações financeiras.</AtribuicoesCargo>
          <CBO>411010</CBO>
@@ -1958,7 +1958,7 @@ Controlar o fichário e/ou arquivo de documentos organizando-os e mantendo-os at
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Nível Superior</AreaFormacao>
+     <AreaFormacao>Nível Superior</AreaFormacao>
          <HabilitacaoInvestidura>Nível Superior</HabilitacaoInvestidura>
          <AtribuicoesCargo>Tem como âmbito de ação a coordenação das atividades relativas o planejamento, coordenação e execução de atividades orçamentárias, contábeis e financeiras.</AtribuicoesCargo>
          <CBO>252210</CBO>
@@ -1980,7 +1980,7 @@ Controlar o fichário e/ou arquivo de documentos organizando-os e mantendo-os at
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Direito</AreaFormacao>
+     <AreaFormacao>Direito</AreaFormacao>
          <HabilitacaoInvestidura>Curso de Nível Superior completo de acordo com a área de atuação, reconhecido pelo MEC e
 registro no respectivo Conselho Regional de Class</HabilitacaoInvestidura>
          <AtribuicoesCargo>Assessorar, assistir e acompanhar o desenvolvimento de programas, projetos e serviços desenvolvidos nas
@@ -2006,7 +2006,7 @@ final.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Nível Superior - Direito</AreaFormacao>
+     <AreaFormacao>Nível Superior - Direito</AreaFormacao>
          <HabilitacaoInvestidura>Curso de Nível Superior completo de acordo com a área de atuação, reconhecido pelo MEC e registro no respectivo Conselho Regional de Classe.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Assessorar, assistir e acompanhar o desenvolvimento de programas, projetos e serviços desenvolvidos nas
 áreas de fazenda, assistência social, educação, saúde, meio ambiente, desenvolvimento econômico, entre
@@ -2031,7 +2031,7 @@ final.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Formação docente de Nível Superior em curso específico de graduação plena para o exercício nas quatro últimas séries do ensino fundamental.</AreaFormacao>
+     <AreaFormacao>Formação docente de Nível Superior em curso específico de graduação plena para o exercício nas quatro últimas séries do ensino fundamental.</AreaFormacao>
          <HabilitacaoInvestidura>Registro na entidade profissional competente, quando for o caso.</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Participar da elaboração do projeto pedagógico de sua unidade escolar;
 -Cumprir plano de trabalho, segundo o Projeto pedagógico de sua unidade escolar;
@@ -2056,7 +2056,7 @@ final.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Licenciatura plena em Pedagogia com Habilitação em Supervisão Escolar, orientação escolar, administração escolar ou inspeção escolar. Curso de formação de especialistas a nível de pós graduação ''lato-sensu'' especialização.</AreaFormacao>
+     <AreaFormacao>Licenciatura plena em Pedagogia com Habilitação em Supervisão Escolar, orientação escolar, administração escolar ou inspeção escolar. Curso de formação de especialistas a nível de pós graduação ''lato-sensu'' especialização.</AreaFormacao>
          <HabilitacaoInvestidura>Três anos de experiência docente, no mínimo. Registro no órgão competente.</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Coordenar a elaboração e a execução do Projeto Pedagógico da escola;
 -Coordenar, no âmbito da Secretaria de Educação/escola, as atividades de planejamento, avaliação e desenvolvimento profissional;
@@ -2081,7 +2081,7 @@ final.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Formação docente de Nível Superior em curso de licenciatura de graduação plena.</AreaFormacao>
+     <AreaFormacao>Formação docente de Nível Superior em curso de licenciatura de graduação plena.</AreaFormacao>
          <HabilitacaoInvestidura>Para atuar nas séries iniciais do ensino fundamental e pré-escolar ou no mínimo, cursando normal superior e registro na entidade.
 </HabilitacaoInvestidura>
          <AtribuicoesCargo>-Participar da elaboração do projeto pedagógico de sua unidade escolar;
@@ -2106,7 +2106,7 @@ final.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>1</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>Ensino Fundamental</AreaFormacao>
+     <AreaFormacao>Ensino Fundamental</AreaFormacao>
          <HabilitacaoInvestidura>Mediante Concurso Público</HabilitacaoInvestidura>
          <AtribuicoesCargo>Alvenaria e revestimento, calceteria, serviços de marteleteiro, usinagem de asfalto, pintura, pintura-letrista, carpintaria, hidráulica, solda, armação de ferro, jardinagem e viveirista, operação de roçada costal, sepultamento, elétrica, abastecimento de veículos, vigilância ambiental</AtribuicoesCargo>
          <CBO>717020</CBO>
@@ -2128,7 +2128,7 @@ final.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Nível superior</AreaFormacao>
+     <AreaFormacao>Nível superior</AreaFormacao>
          <HabilitacaoInvestidura>Cursado superior e registro na entidade.</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Participar da elaboração do projeto pedagógico de sua unidade escolar;
 -Cumprir plano de trabalho, segundo o Projeto pedagógico de sua unidade escolar;
@@ -2153,7 +2153,7 @@ final.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Curso Técnico de Nível Médio</AreaFormacao>
+     <AreaFormacao>Curso Técnico de Nível Médio</AreaFormacao>
          <HabilitacaoInvestidura>Conhecimentos básicos de processador de textos, planilhas eletrônicas, internet.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Prestar, sob orientação do médico ou Enfermeiro, serviços técnicos de enfermagem, ministrando medicamentos ou tratamento aos pacientes, controle de pressão venosa, monitorização e utilização de respiradores artificiais;
 -Controlar sinais vitais dos pacientes, observando a respiração e pulsação e utilizando aparelhos de ausculta e pressão.</AtribuicoesCargo>
@@ -2176,7 +2176,7 @@ final.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>1</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino Médio Completo</AreaFormacao>
+     <AreaFormacao>Ensino Médio Completo</AreaFormacao>
          <HabilitacaoInvestidura>- Bons conhecimentos de português e redação oficial;
 - bons conhecimentos sobre técnica e processos legislativos;
 - excelente datilografia;
@@ -2206,7 +2206,7 @@ final.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino Médio Completo</AreaFormacao>
+     <AreaFormacao>Ensino Médio Completo</AreaFormacao>
          <HabilitacaoInvestidura>Conhecimento de processador de textos, planilhas eletrônicas, internet</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Prestar informações de caráter geral, pessoalmente ou por telefone, anotando e transmitindo recados;
 -Redigir a correspondência e documentos de rotina, observando os padrões estabelecidos de forma e estilo para assegurar o funcionamento do sistema de comunicação interna e externa;
@@ -2235,7 +2235,7 @@ final.</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>1</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino Médio </AreaFormacao>
+     <AreaFormacao>Ensino Médio </AreaFormacao>
          <HabilitacaoInvestidura>Ensino Médio </HabilitacaoInvestidura>
          <AtribuicoesCargo>-Digitar texto, fichas e documentos;
  -Executar serviços de mecanografia;
@@ -2259,7 +2259,7 @@ atender ao público, interno e externo, prestando informações simples, anotand
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Agrimensura, agropecuária, desenho, contabilidade, edificações, eletrotécnica, estradas, informática, saneamento, segurança do trabalho e biblioteca.</AreaFormacao>
+     <AreaFormacao>Agrimensura, agropecuária, desenho, contabilidade, edificações, eletrotécnica, estradas, informática, saneamento, segurança do trabalho e biblioteca.</AreaFormacao>
          <HabilitacaoInvestidura>Curso de nível médio ou técnico de nível médio, de acordo com a área de atuação e registro no respectivo conselho de classe, quando se tratar de profissão regulamentada.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Compreende as atribuições que exigem pleno conhecimento das técnicas da especialidade profissional. Os problemas surgidos são de natureza complexa e demandam busca de novas soluções. As atribuições, de significativa abrangência, são desempenhadas com grande grau de autonomia. A orientação prévia, quando ocorre, se restringe a aspectos controvertidos, aplicação de novas tecnologias e casos semelhantes.</AtribuicoesCargo>
          <CBO>411010</CBO>
@@ -2281,7 +2281,7 @@ atender ao público, interno e externo, prestando informações simples, anotand
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>1</EscolaridadeMinima>
-         <AreaFormacao>Ensino Fundamental ? Séries Finais</AreaFormacao>
+     <AreaFormacao>Ensino Fundamental ? Séries Finais</AreaFormacao>
          <HabilitacaoInvestidura>Ensino Fundamental ? Séries Finais</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Estudar o programa de produção, interpretando projetos, desenhos, especificações, ordens e outros
 documentos, para avaliar as necessidades de mão de obra, materiais, equipamentos e prazos.
@@ -2305,7 +2305,7 @@ documentos, para avaliar as necessidades de mão de obra, materiais, equipamento
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>Ensino Fundamental</AreaFormacao>
+     <AreaFormacao>Ensino Fundamental</AreaFormacao>
          <HabilitacaoInvestidura>Mediante Concurso Público</HabilitacaoInvestidura>
          <AtribuicoesCargo>Alvenaria e revestimento, calceteria, serviços de marteleteiro, usinagem de asfalto, pintura, pintura-letrista, carpintaria, hidráulica, solda, armação de ferro, jardinagem e viveirista, operação de roçada costal, sepultamento, elétrica, abastecimento de veículos, vigilância ambiental</AtribuicoesCargo>
          <CBO>717020</CBO>
@@ -2327,7 +2327,7 @@ documentos, para avaliar as necessidades de mão de obra, materiais, equipamento
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>11</EscolaridadeMinima>
-         <AreaFormacao>Ensino Fundamental - Séries iniciais</AreaFormacao>
+     <AreaFormacao>Ensino Fundamental - Séries iniciais</AreaFormacao>
          <HabilitacaoInvestidura>Habilitação para condução de máquinas.</HabilitacaoInvestidura>
          <AtribuicoesCargo>Operar motoniveladora, retroescavadeira, pá carregadeira, trator de esteira, trator agrícola, rolo compactador,
 motoniveladoras, carregadeiras, escavadeira hidráulica e outros tratores e reboques, para execução de
@@ -2352,7 +2352,7 @@ pavimentação, desmatamento, retirada de cascalhos, dragagens em rios  e conser
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>3</EscolaridadeMinima>
-         <AreaFormacao>ENSINO FUNDAMENTAL SERIES INICIAIS</AreaFormacao>
+     <AreaFormacao>ENSINO FUNDAMENTAL SERIES INICIAIS</AreaFormacao>
          <HabilitacaoInvestidura>ENSINO FUNDAMENTAL SERIES INICIAIS</HabilitacaoInvestidura>
          <AtribuicoesCargo>Compreende os cargos que se destinam a auxiliar na execução de serviços administrativos simples, operar máquinas duplicadoras e realizar pequenos mandados externos, bem como recepcionar e identificar os visitantes da Prefeitura. Compreende, também, as atividades elementares de jardineiro.</AtribuicoesCargo>
          <CBO>717020</CBO>
@@ -2374,7 +2374,7 @@ pavimentação, desmatamento, retirada de cascalhos, dragagens em rios  e conser
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>1</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino Superior incompleto</AreaFormacao>
+     <AreaFormacao>Ensino Superior incompleto</AreaFormacao>
          <HabilitacaoInvestidura>Ensino Superior incompleto</HabilitacaoInvestidura>
          <AtribuicoesCargo>Exercer atividades perante a administração pública direta e
 indireta, autárquica ou fundacional</AtribuicoesCargo>
@@ -2397,7 +2397,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Ensino Médio Completo/ Ensino Superior</AreaFormacao>
+     <AreaFormacao>Ensino Médio Completo/ Ensino Superior</AreaFormacao>
          <HabilitacaoInvestidura>Nível de acordo com a respectiva classe; Noções de Informática; Noções de Hidráulica</HabilitacaoInvestidura>
          <AtribuicoesCargo>Executar tarefas de manutenção das redes de água, esgoto e adutoras. Instalar e consertar encanamentos, fazer ligações de água e esgoto e instalar padrões de medição. Executar assentamento de tubos, manilhas e conexões. Executar e reparar ramais domiciliares. Corrigir vazamentos em redes de água e adutoras bem como desobstruir as redes de esgoto e efetuar cortes e religações de água.</AtribuicoesCargo>
          <CBO>862205</CBO>
@@ -2419,7 +2419,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>1</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Nível Médio/ Nível Superior</AreaFormacao>
+     <AreaFormacao>Nível Médio/ Nível Superior</AreaFormacao>
          <HabilitacaoInvestidura>Nível de acordo com a classe do respectivo cargo</HabilitacaoInvestidura>
          <AtribuicoesCargo>Compreende as atividades de coordenação e execução de trabalhos de elaboração de projetos de melhorias e ampliação dos sistemas de abastecimento de água e de esgotamento sanitário com base em estudos de otimização e racionalização operacional assim como apoio na operação e manutenção dos referidos sistemas</AtribuicoesCargo>
          <CBO>862205</CBO>
@@ -2441,7 +2441,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Nível Superior Completo</AreaFormacao>
+     <AreaFormacao>Nível Superior Completo</AreaFormacao>
          <HabilitacaoInvestidura>Nível Superior Completo</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Participar do processo de elaboração do planejamento, organização, execução, avaliação e regulação dos serviços de saúde;
 -Cumprir os protocolos clínicos instituídos pelo Município;
@@ -2466,7 +2466,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>4</EscolaridadeMinima>
-         <AreaFormacao>Médio e Técnico</AreaFormacao>
+     <AreaFormacao>Médio e Técnico</AreaFormacao>
          <HabilitacaoInvestidura>Médio e Técnico</HabilitacaoInvestidura>
          <AtribuicoesCargo>Tem como âmbito de ação a coordenação das atividades relativas ao planejamento, organização e execução de atividades administrativas de recursos humanos, de suprimentos, serviços gerais, de expediente, de pessoal, compras, protocolo, arquivo e patrimônio.</AtribuicoesCargo>
          <CBO>252105</CBO>
@@ -2488,7 +2488,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>1</EscolaridadeMinima>
-         <AreaFormacao>Ensino fundamental - Séries iniciais</AreaFormacao>
+     <AreaFormacao>Ensino fundamental - Séries iniciais</AreaFormacao>
          <HabilitacaoInvestidura>Ensino fundamental - Séries iniciais</HabilitacaoInvestidura>
          <AtribuicoesCargo>      atender visitantes ou funcionários, indagando suas pretensões, para informá-los conforme seus pedidos;
 
@@ -2516,7 +2516,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Nível Superior Completo</AreaFormacao>
+     <AreaFormacao>Nível Superior Completo</AreaFormacao>
          <HabilitacaoInvestidura>Nível Superior Completo</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Participar do processo de elaboração do planejamento, organização, execução, avaliação e regulação dos serviços de saúde;
 -Cumprir os protocolos clínicos instituídos pelo Município;
@@ -2541,7 +2541,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>Formação docente de Nível Superior em curso de licenciatura de graduação plena.</AreaFormacao>
+     <AreaFormacao>Formação docente de Nível Superior em curso de licenciatura de graduação plena.</AreaFormacao>
          <HabilitacaoInvestidura>Para atuar nas séries iniciais do ensino fundamental e pré-escolar ou no mínimo, cursando normal superior e registro na entidade.</HabilitacaoInvestidura>
          <AtribuicoesCargo>-Participar da elaboração do projeto pedagógico de sua unidade escolar;
 -Cumprir plano de trabalho, segundo o Projeto pedagógico de sua unidade escolar;
@@ -2565,7 +2565,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <NaturezaCargo>1</NaturezaCargo>
          <RegimeJuridico>1</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
-         <AreaFormacao>DIREITO</AreaFormacao>
+     <AreaFormacao>DIREITO</AreaFormacao>
          <HabilitacaoInvestidura>CURSO DE NIVEL SUPERIOR COMPLETO DE ACORDO COM A AREA DE ATUAÇÃO RECONHECIDO PELO MEC E REGISTRO NO RESPECTIVO CONSELHO DE CLASSE.</HabilitacaoInvestidura>
          <AtribuicoesCargo>ESTUDAR E EMITIR PARECERES QUE SIRVAM DE ORIENTAÇÃO À ADMINISTRAÇÃO DO IPASMA SOBRE A APLICABILIDADE DAS NORMAS LEGAIS VIGENTES AOS ATOS POR ELA PRATICADOS;DEFENDER EM JUÍZO E FORA DELE OS DIREITOS E OS INTERESSES DO INSTITUTO;ASSESSORAR, JURIDICAMENTE, O PRESIDENTE DO IPASMA </AtribuicoesCargo>
          <CBO>241210</CBO>
@@ -2581,25 +2581,25 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <IdNumRegistro>1</IdNumRegistro>
          <CodigoCargo>10009</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>2</IdNumRegistro>
          <CodigoCargo>10012</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>3</IdNumRegistro>
          <CodigoCargo>10013</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>4</IdNumRegistro>
          <CodigoCargo>10015</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>5</IdNumRegistro>
@@ -2611,163 +2611,163 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <IdNumRegistro>6</IdNumRegistro>
          <CodigoCargo>10017</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>7</IdNumRegistro>
          <CodigoCargo>10018</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>8</IdNumRegistro>
          <CodigoCargo>10020</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>9</IdNumRegistro>
          <CodigoCargo>10022</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>10</IdNumRegistro>
          <CodigoCargo>10023</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>11</IdNumRegistro>
          <CodigoCargo>10024</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>12</IdNumRegistro>
          <CodigoCargo>10025</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>13</IdNumRegistro>
          <CodigoCargo>10027</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>14</IdNumRegistro>
          <CodigoCargo>10029</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>15</IdNumRegistro>
          <CodigoCargo>10030</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>16</IdNumRegistro>
          <CodigoCargo>10033</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>17</IdNumRegistro>
          <CodigoCargo>10034</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>44</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>18</IdNumRegistro>
          <CodigoCargo>10036</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>19</IdNumRegistro>
          <CodigoCargo>10042</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>20</IdNumRegistro>
          <CodigoCargo>10044</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>21</IdNumRegistro>
          <CodigoCargo>10048</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>44</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>22</IdNumRegistro>
          <CodigoCargo>10049</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>23</IdNumRegistro>
          <CodigoCargo>10050</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>24</IdNumRegistro>
          <CodigoCargo>10052</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>20</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>25</IdNumRegistro>
          <CodigoCargo>10054</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>26</IdNumRegistro>
          <CodigoCargo>10055</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>27</IdNumRegistro>
          <CodigoCargo>10056</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>44</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>28</IdNumRegistro>
          <CodigoCargo>10058</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>20</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>29</IdNumRegistro>
          <CodigoCargo>10060</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>44</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>30</IdNumRegistro>
          <CodigoCargo>10061</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>31</IdNumRegistro>
          <CodigoCargo>10067</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>32</IdNumRegistro>
          <CodigoCargo>10068</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>33</IdNumRegistro>
@@ -2779,109 +2779,109 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <IdNumRegistro>34</IdNumRegistro>
          <CodigoCargo>10075</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>35</IdNumRegistro>
          <CodigoCargo>10076</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>36</IdNumRegistro>
          <CodigoCargo>10077</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>37</IdNumRegistro>
          <CodigoCargo>10078</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>38</IdNumRegistro>
          <CodigoCargo>10079</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>39</IdNumRegistro>
          <CodigoCargo>10081</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>40</IdNumRegistro>
          <CodigoCargo>10082</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>41</IdNumRegistro>
          <CodigoCargo>10084</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>42</IdNumRegistro>
          <CodigoCargo>10085</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>43</IdNumRegistro>
          <CodigoCargo>10087</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>44</IdNumRegistro>
          <CodigoCargo>10088</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>45</IdNumRegistro>
          <CodigoCargo>10089</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>46</IdNumRegistro>
          <CodigoCargo>10090</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>47</IdNumRegistro>
          <CodigoCargo>10094</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>48</IdNumRegistro>
          <CodigoCargo>10095</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>49</IdNumRegistro>
          <CodigoCargo>10101</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>44</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>50</IdNumRegistro>
          <CodigoCargo>10103</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>51</IdNumRegistro>
          <CodigoCargo>10105</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>52</IdNumRegistro>
@@ -2899,91 +2899,91 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <IdNumRegistro>54</IdNumRegistro>
          <CodigoCargo>10111</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>44</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>55</IdNumRegistro>
          <CodigoCargo>10130</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>56</IdNumRegistro>
          <CodigoCargo>10131</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>57</IdNumRegistro>
          <CodigoCargo>10134</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>58</IdNumRegistro>
          <CodigoCargo>10136</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>44</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>59</IdNumRegistro>
          <CodigoCargo>10139</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>60</IdNumRegistro>
          <CodigoCargo>10147</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>44</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>61</IdNumRegistro>
          <CodigoCargo>10152</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>62</IdNumRegistro>
          <CodigoCargo>10153</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>63</IdNumRegistro>
          <CodigoCargo>10162</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>64</IdNumRegistro>
          <CodigoCargo>10163</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>65</IdNumRegistro>
          <CodigoCargo>10165</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>66</IdNumRegistro>
          <CodigoCargo>10166</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>67</IdNumRegistro>
          <CodigoCargo>10170</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>68</IdNumRegistro>
          <CodigoCargo>10174</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>69</IdNumRegistro>
@@ -3001,7 +3001,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <IdNumRegistro>71</IdNumRegistro>
          <CodigoCargo>10184</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>44</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>72</IdNumRegistro>
@@ -3013,151 +3013,151 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <IdNumRegistro>73</IdNumRegistro>
          <CodigoCargo>10187</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>74</IdNumRegistro>
          <CodigoCargo>10188</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>75</IdNumRegistro>
          <CodigoCargo>10192</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>44</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>76</IdNumRegistro>
          <CodigoCargo>10193</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>77</IdNumRegistro>
          <CodigoCargo>10200</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>78</IdNumRegistro>
          <CodigoCargo>10202</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>79</IdNumRegistro>
          <CodigoCargo>10203</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>80</IdNumRegistro>
          <CodigoCargo>10205</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>81</IdNumRegistro>
          <CodigoCargo>10206</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>82</IdNumRegistro>
          <CodigoCargo>10210</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>83</IdNumRegistro>
          <CodigoCargo>10212</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>84</IdNumRegistro>
          <CodigoCargo>10216</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>85</IdNumRegistro>
          <CodigoCargo>10218</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>86</IdNumRegistro>
          <CodigoCargo>11231</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>44</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>87</IdNumRegistro>
          <CodigoCargo>12231</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>88</IdNumRegistro>
          <CodigoCargo>12232</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>89</IdNumRegistro>
          <CodigoCargo>12235</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>90</IdNumRegistro>
          <CodigoCargo>12236</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>91</IdNumRegistro>
          <CodigoCargo>12237</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>92</IdNumRegistro>
          <CodigoCargo>12238</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>93</IdNumRegistro>
          <CodigoCargo>12239</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>94</IdNumRegistro>
          <CodigoCargo>12242</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>44</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>95</IdNumRegistro>
          <CodigoCargo>12243</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>44</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>96</IdNumRegistro>
          <CodigoCargo>12244</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>44</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>97</IdNumRegistro>
          <CodigoCargo>12247</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>98</IdNumRegistro>
@@ -3175,37 +3175,37 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <IdNumRegistro>100</IdNumRegistro>
          <CodigoCargo>13260</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>20</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>101</IdNumRegistro>
          <CodigoCargo>13261</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>102</IdNumRegistro>
          <CodigoCargo>13263</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>103</IdNumRegistro>
          <CodigoCargo>13264</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>20</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>104</IdNumRegistro>
          <CodigoCargo>13265</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>25</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>105</IdNumRegistro>
          <CodigoCargo>13279</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>40</ValorCargaHoraria>
+         <ValorCargaHoraria>30</ValorCargaHoraria>
       </CargaHoraria>
       <NormativoCargo>
          <IdNumRegistro>1</IdNumRegistro>
@@ -3329,16 +3329,6 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
       </NormativoCargo>
       <NormativoCargo>
          <IdNumRegistro>13</IdNumRegistro>
-         <CodigoCargo>10026</CodigoCargo>
-         <NumeroBaseLegal>2897</NumeroBaseLegal>
-         <AnoBaseLegal>2019</AnoBaseLegal>
-         <TipoBaseLegal>1</TipoBaseLegal>
-         <DataPublicacao>2006-03-31</DataPublicacao>
-         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
-         <URLBaseLegal>http://leismunicipa.is/xlpmn</URLBaseLegal>
-      </NormativoCargo>
-      <NormativoCargo>
-         <IdNumRegistro>14</IdNumRegistro>
          <CodigoCargo>10027</CodigoCargo>
          <NumeroBaseLegal>1664</NumeroBaseLegal>
          <AnoBaseLegal>1993</AnoBaseLegal>
@@ -3348,7 +3338,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/vwhig</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>15</IdNumRegistro>
+         <IdNumRegistro>14</IdNumRegistro>
          <CodigoCargo>10029</CodigoCargo>
          <NumeroBaseLegal>1664</NumeroBaseLegal>
          <AnoBaseLegal>1993</AnoBaseLegal>
@@ -3358,7 +3348,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/vwhig</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>16</IdNumRegistro>
+         <IdNumRegistro>15</IdNumRegistro>
          <CodigoCargo>10030</CodigoCargo>
          <NumeroBaseLegal>3536</NumeroBaseLegal>
          <AnoBaseLegal>2011</AnoBaseLegal>
@@ -3368,7 +3358,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/euatw</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>17</IdNumRegistro>
+         <IdNumRegistro>16</IdNumRegistro>
          <CodigoCargo>10033</CodigoCargo>
          <NumeroBaseLegal>2896</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3378,7 +3368,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>18</IdNumRegistro>
+         <IdNumRegistro>17</IdNumRegistro>
          <CodigoCargo>10034</CodigoCargo>
          <NumeroBaseLegal>1664</NumeroBaseLegal>
          <AnoBaseLegal>1993</AnoBaseLegal>
@@ -3388,17 +3378,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/vwhig</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>19</IdNumRegistro>
-         <CodigoCargo>10035</CodigoCargo>
-         <NumeroBaseLegal>2893</NumeroBaseLegal>
-         <AnoBaseLegal>2006</AnoBaseLegal>
-         <TipoBaseLegal>1</TipoBaseLegal>
-         <DataPublicacao>2006-03-28</DataPublicacao>
-         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
-         <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
-      </NormativoCargo>
-      <NormativoCargo>
-         <IdNumRegistro>20</IdNumRegistro>
+         <IdNumRegistro>18</IdNumRegistro>
          <CodigoCargo>10036</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3408,7 +3388,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>21</IdNumRegistro>
+         <IdNumRegistro>19</IdNumRegistro>
          <CodigoCargo>10042</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3418,7 +3398,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>22</IdNumRegistro>
+         <IdNumRegistro>20</IdNumRegistro>
          <CodigoCargo>10044</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3428,7 +3408,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>23</IdNumRegistro>
+         <IdNumRegistro>21</IdNumRegistro>
          <CodigoCargo>10048</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3438,7 +3418,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>24</IdNumRegistro>
+         <IdNumRegistro>22</IdNumRegistro>
          <CodigoCargo>10049</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3448,7 +3428,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>25</IdNumRegistro>
+         <IdNumRegistro>23</IdNumRegistro>
          <CodigoCargo>10050</CodigoCargo>
          <NumeroBaseLegal>2893</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3458,7 +3438,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>26</IdNumRegistro>
+         <IdNumRegistro>24</IdNumRegistro>
          <CodigoCargo>10052</CodigoCargo>
          <NumeroBaseLegal>2893</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3468,7 +3448,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>27</IdNumRegistro>
+         <IdNumRegistro>25</IdNumRegistro>
          <CodigoCargo>10054</CodigoCargo>
          <NumeroBaseLegal>3536</NumeroBaseLegal>
          <AnoBaseLegal>2011</AnoBaseLegal>
@@ -3478,7 +3458,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/euatw</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>28</IdNumRegistro>
+         <IdNumRegistro>26</IdNumRegistro>
          <CodigoCargo>10055</CodigoCargo>
          <NumeroBaseLegal>3536</NumeroBaseLegal>
          <AnoBaseLegal>2011</AnoBaseLegal>
@@ -3488,7 +3468,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/euatw</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>29</IdNumRegistro>
+         <IdNumRegistro>27</IdNumRegistro>
          <CodigoCargo>10056</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3498,17 +3478,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>30</IdNumRegistro>
-         <CodigoCargo>10057</CodigoCargo>
-         <NumeroBaseLegal>2893</NumeroBaseLegal>
-         <AnoBaseLegal>2006</AnoBaseLegal>
-         <TipoBaseLegal>1</TipoBaseLegal>
-         <DataPublicacao>2006-03-28</DataPublicacao>
-         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
-         <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
-      </NormativoCargo>
-      <NormativoCargo>
-         <IdNumRegistro>31</IdNumRegistro>
+         <IdNumRegistro>28</IdNumRegistro>
          <CodigoCargo>10058</CodigoCargo>
          <NumeroBaseLegal>2893</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3518,7 +3488,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>32</IdNumRegistro>
+         <IdNumRegistro>29</IdNumRegistro>
          <CodigoCargo>10060</CodigoCargo>
          <NumeroBaseLegal>3536</NumeroBaseLegal>
          <AnoBaseLegal>2011</AnoBaseLegal>
@@ -3528,7 +3498,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/euatw</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>33</IdNumRegistro>
+         <IdNumRegistro>30</IdNumRegistro>
          <CodigoCargo>10061</CodigoCargo>
          <NumeroBaseLegal>2896</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3538,7 +3508,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>34</IdNumRegistro>
+         <IdNumRegistro>31</IdNumRegistro>
          <CodigoCargo>10067</CodigoCargo>
          <NumeroBaseLegal>2896</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3548,7 +3518,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>35</IdNumRegistro>
+         <IdNumRegistro>32</IdNumRegistro>
          <CodigoCargo>10068</CodigoCargo>
          <NumeroBaseLegal>2896</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3558,7 +3528,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>36</IdNumRegistro>
+         <IdNumRegistro>33</IdNumRegistro>
          <CodigoCargo>10074</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3568,7 +3538,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>37</IdNumRegistro>
+         <IdNumRegistro>34</IdNumRegistro>
          <CodigoCargo>10075</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3578,7 +3548,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>38</IdNumRegistro>
+         <IdNumRegistro>35</IdNumRegistro>
          <CodigoCargo>10076</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3588,7 +3558,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>39</IdNumRegistro>
+         <IdNumRegistro>36</IdNumRegistro>
          <CodigoCargo>10077</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3598,7 +3568,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>40</IdNumRegistro>
+         <IdNumRegistro>37</IdNumRegistro>
          <CodigoCargo>10078</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3608,7 +3578,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>41</IdNumRegistro>
+         <IdNumRegistro>38</IdNumRegistro>
          <CodigoCargo>10079</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3618,7 +3588,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>42</IdNumRegistro>
+         <IdNumRegistro>39</IdNumRegistro>
          <CodigoCargo>10081</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3628,7 +3598,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/xlpmn</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>43</IdNumRegistro>
+         <IdNumRegistro>40</IdNumRegistro>
          <CodigoCargo>10082</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3638,7 +3608,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>44</IdNumRegistro>
+         <IdNumRegistro>41</IdNumRegistro>
          <CodigoCargo>10084</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3648,7 +3618,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>45</IdNumRegistro>
+         <IdNumRegistro>42</IdNumRegistro>
          <CodigoCargo>10085</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3658,7 +3628,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>46</IdNumRegistro>
+         <IdNumRegistro>43</IdNumRegistro>
          <CodigoCargo>10087</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3668,7 +3638,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>47</IdNumRegistro>
+         <IdNumRegistro>44</IdNumRegistro>
          <CodigoCargo>10088</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3678,7 +3648,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>48</IdNumRegistro>
+         <IdNumRegistro>45</IdNumRegistro>
          <CodigoCargo>10089</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3688,7 +3658,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>49</IdNumRegistro>
+         <IdNumRegistro>46</IdNumRegistro>
          <CodigoCargo>10090</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3698,7 +3668,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>50</IdNumRegistro>
+         <IdNumRegistro>47</IdNumRegistro>
          <CodigoCargo>10094</CodigoCargo>
          <NumeroBaseLegal>2896</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3708,7 +3678,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>51</IdNumRegistro>
+         <IdNumRegistro>48</IdNumRegistro>
          <CodigoCargo>10095</CodigoCargo>
          <NumeroBaseLegal>2896</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3718,17 +3688,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>52</IdNumRegistro>
-         <CodigoCargo>10097</CodigoCargo>
-         <NumeroBaseLegal>2893</NumeroBaseLegal>
-         <AnoBaseLegal>2006</AnoBaseLegal>
-         <TipoBaseLegal>1</TipoBaseLegal>
-         <DataPublicacao>2006-03-28</DataPublicacao>
-         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
-         <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
-      </NormativoCargo>
-      <NormativoCargo>
-         <IdNumRegistro>53</IdNumRegistro>
+         <IdNumRegistro>49</IdNumRegistro>
          <CodigoCargo>10101</CodigoCargo>
          <NumeroBaseLegal>1664</NumeroBaseLegal>
          <AnoBaseLegal>1993</AnoBaseLegal>
@@ -3738,7 +3698,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/vwhig</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>54</IdNumRegistro>
+         <IdNumRegistro>50</IdNumRegistro>
          <CodigoCargo>10103</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3748,7 +3708,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>55</IdNumRegistro>
+         <IdNumRegistro>51</IdNumRegistro>
          <CodigoCargo>10105</CodigoCargo>
          <NumeroBaseLegal>2893</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3758,7 +3718,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>56</IdNumRegistro>
+         <IdNumRegistro>52</IdNumRegistro>
          <CodigoCargo>10106</CodigoCargo>
          <NumeroBaseLegal>3939</NumeroBaseLegal>
          <AnoBaseLegal>2015</AnoBaseLegal>
@@ -3768,7 +3728,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/sudwo</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>57</IdNumRegistro>
+         <IdNumRegistro>53</IdNumRegistro>
          <CodigoCargo>10107</CodigoCargo>
          <NumeroBaseLegal>2893</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3778,7 +3738,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>58</IdNumRegistro>
+         <IdNumRegistro>54</IdNumRegistro>
          <CodigoCargo>10111</CodigoCargo>
          <NumeroBaseLegal>3536</NumeroBaseLegal>
          <AnoBaseLegal>2011</AnoBaseLegal>
@@ -3788,7 +3748,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/euatw</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>59</IdNumRegistro>
+         <IdNumRegistro>55</IdNumRegistro>
          <CodigoCargo>10130</CodigoCargo>
          <NumeroBaseLegal>3284</NumeroBaseLegal>
          <AnoBaseLegal>2010</AnoBaseLegal>
@@ -3798,7 +3758,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/xfpcb</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>60</IdNumRegistro>
+         <IdNumRegistro>56</IdNumRegistro>
          <CodigoCargo>10131</CodigoCargo>
          <NumeroBaseLegal>3284</NumeroBaseLegal>
          <AnoBaseLegal>2010</AnoBaseLegal>
@@ -3808,7 +3768,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/xfpcb</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>61</IdNumRegistro>
+         <IdNumRegistro>57</IdNumRegistro>
          <CodigoCargo>10134</CodigoCargo>
          <NumeroBaseLegal>3284</NumeroBaseLegal>
          <AnoBaseLegal>2010</AnoBaseLegal>
@@ -3818,7 +3778,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/xfpcb</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>62</IdNumRegistro>
+         <IdNumRegistro>58</IdNumRegistro>
          <CodigoCargo>10136</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3828,7 +3788,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>63</IdNumRegistro>
+         <IdNumRegistro>59</IdNumRegistro>
          <CodigoCargo>10139</CodigoCargo>
          <NumeroBaseLegal>3536</NumeroBaseLegal>
          <AnoBaseLegal>2011</AnoBaseLegal>
@@ -3838,7 +3798,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/euatw</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>64</IdNumRegistro>
+         <IdNumRegistro>60</IdNumRegistro>
          <CodigoCargo>10147</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3848,7 +3808,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>65</IdNumRegistro>
+         <IdNumRegistro>61</IdNumRegistro>
          <CodigoCargo>10152</CodigoCargo>
          <NumeroBaseLegal>2893</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3858,7 +3818,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>66</IdNumRegistro>
+         <IdNumRegistro>62</IdNumRegistro>
          <CodigoCargo>10153</CodigoCargo>
          <NumeroBaseLegal>2893</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3868,7 +3828,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>67</IdNumRegistro>
+         <IdNumRegistro>63</IdNumRegistro>
          <CodigoCargo>10162</CodigoCargo>
          <NumeroBaseLegal>2896</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3878,7 +3838,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>68</IdNumRegistro>
+         <IdNumRegistro>64</IdNumRegistro>
          <CodigoCargo>10163</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3888,7 +3848,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>69</IdNumRegistro>
+         <IdNumRegistro>65</IdNumRegistro>
          <CodigoCargo>10165</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3898,7 +3858,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>70</IdNumRegistro>
+         <IdNumRegistro>66</IdNumRegistro>
          <CodigoCargo>10166</CodigoCargo>
          <NumeroBaseLegal>520</NumeroBaseLegal>
          <AnoBaseLegal>1993</AnoBaseLegal>
@@ -3908,7 +3868,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/gaxon</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>71</IdNumRegistro>
+         <IdNumRegistro>67</IdNumRegistro>
          <CodigoCargo>10170</CodigoCargo>
          <NumeroBaseLegal>2896</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3918,7 +3878,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>72</IdNumRegistro>
+         <IdNumRegistro>68</IdNumRegistro>
          <CodigoCargo>10174</CodigoCargo>
          <NumeroBaseLegal>2896</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3928,7 +3888,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>73</IdNumRegistro>
+         <IdNumRegistro>69</IdNumRegistro>
          <CodigoCargo>10175</CodigoCargo>
          <NumeroBaseLegal>3939</NumeroBaseLegal>
          <AnoBaseLegal>2015</AnoBaseLegal>
@@ -3938,7 +3898,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/sudwo</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>74</IdNumRegistro>
+         <IdNumRegistro>70</IdNumRegistro>
          <CodigoCargo>10183</CodigoCargo>
          <NumeroBaseLegal>3536</NumeroBaseLegal>
          <AnoBaseLegal>2011</AnoBaseLegal>
@@ -3948,7 +3908,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/euatw</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>75</IdNumRegistro>
+         <IdNumRegistro>71</IdNumRegistro>
          <CodigoCargo>10184</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3958,7 +3918,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>76</IdNumRegistro>
+         <IdNumRegistro>72</IdNumRegistro>
          <CodigoCargo>10185</CodigoCargo>
          <NumeroBaseLegal>3939</NumeroBaseLegal>
          <AnoBaseLegal>2015</AnoBaseLegal>
@@ -3968,7 +3928,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/sudwo</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>77</IdNumRegistro>
+         <IdNumRegistro>73</IdNumRegistro>
          <CodigoCargo>10187</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3978,7 +3938,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/xlpmn</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>78</IdNumRegistro>
+         <IdNumRegistro>74</IdNumRegistro>
          <CodigoCargo>10188</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3988,7 +3948,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/xlpmn</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>79</IdNumRegistro>
+         <IdNumRegistro>75</IdNumRegistro>
          <CodigoCargo>10192</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -3998,7 +3958,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>80</IdNumRegistro>
+         <IdNumRegistro>76</IdNumRegistro>
          <CodigoCargo>10193</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4008,7 +3968,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>81</IdNumRegistro>
+         <IdNumRegistro>77</IdNumRegistro>
          <CodigoCargo>10200</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4018,7 +3978,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>82</IdNumRegistro>
+         <IdNumRegistro>78</IdNumRegistro>
          <CodigoCargo>10202</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4028,7 +3988,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>83</IdNumRegistro>
+         <IdNumRegistro>79</IdNumRegistro>
          <CodigoCargo>10203</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4038,7 +3998,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>84</IdNumRegistro>
+         <IdNumRegistro>80</IdNumRegistro>
          <CodigoCargo>10205</CodigoCargo>
          <NumeroBaseLegal>520</NumeroBaseLegal>
          <AnoBaseLegal>1993</AnoBaseLegal>
@@ -4048,7 +4008,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/gaxon</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>85</IdNumRegistro>
+         <IdNumRegistro>81</IdNumRegistro>
          <CodigoCargo>10206</CodigoCargo>
          <NumeroBaseLegal>3536</NumeroBaseLegal>
          <AnoBaseLegal>2011</AnoBaseLegal>
@@ -4058,7 +4018,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/euatw</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>86</IdNumRegistro>
+         <IdNumRegistro>82</IdNumRegistro>
          <CodigoCargo>10210</CodigoCargo>
          <NumeroBaseLegal>3536</NumeroBaseLegal>
          <AnoBaseLegal>2011</AnoBaseLegal>
@@ -4068,7 +4028,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/euatw</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>87</IdNumRegistro>
+         <IdNumRegistro>83</IdNumRegistro>
          <CodigoCargo>10212</CodigoCargo>
          <NumeroBaseLegal>2896</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4078,7 +4038,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>88</IdNumRegistro>
+         <IdNumRegistro>84</IdNumRegistro>
          <CodigoCargo>10216</CodigoCargo>
          <NumeroBaseLegal>2896</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4088,7 +4048,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>89</IdNumRegistro>
+         <IdNumRegistro>85</IdNumRegistro>
          <CodigoCargo>10218</CodigoCargo>
          <NumeroBaseLegal>2896</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4098,7 +4058,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>90</IdNumRegistro>
+         <IdNumRegistro>86</IdNumRegistro>
          <CodigoCargo>11231</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4108,7 +4068,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>91</IdNumRegistro>
+         <IdNumRegistro>87</IdNumRegistro>
          <CodigoCargo>12231</CodigoCargo>
          <NumeroBaseLegal>2896</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4118,7 +4078,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>92</IdNumRegistro>
+         <IdNumRegistro>88</IdNumRegistro>
          <CodigoCargo>12232</CodigoCargo>
          <NumeroBaseLegal>2893</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4128,7 +4088,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>93</IdNumRegistro>
+         <IdNumRegistro>89</IdNumRegistro>
          <CodigoCargo>12235</CodigoCargo>
          <NumeroBaseLegal>520</NumeroBaseLegal>
          <AnoBaseLegal>1993</AnoBaseLegal>
@@ -4138,7 +4098,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/gaxon</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>94</IdNumRegistro>
+         <IdNumRegistro>90</IdNumRegistro>
          <CodigoCargo>12236</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4148,7 +4108,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>95</IdNumRegistro>
+         <IdNumRegistro>91</IdNumRegistro>
          <CodigoCargo>12237</CodigoCargo>
          <NumeroBaseLegal>2893</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4158,7 +4118,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>96</IdNumRegistro>
+         <IdNumRegistro>92</IdNumRegistro>
          <CodigoCargo>12238</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4168,7 +4128,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/xlpmn</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>97</IdNumRegistro>
+         <IdNumRegistro>93</IdNumRegistro>
          <CodigoCargo>12239</CodigoCargo>
          <NumeroBaseLegal>3536</NumeroBaseLegal>
          <AnoBaseLegal>2011</AnoBaseLegal>
@@ -4178,17 +4138,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/euatw</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>98</IdNumRegistro>
-         <CodigoCargo>12241</CodigoCargo>
-         <NumeroBaseLegal>2893</NumeroBaseLegal>
-         <AnoBaseLegal>2006</AnoBaseLegal>
-         <TipoBaseLegal>1</TipoBaseLegal>
-         <DataPublicacao>2006-03-28</DataPublicacao>
-         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
-         <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
-      </NormativoCargo>
-      <NormativoCargo>
-         <IdNumRegistro>99</IdNumRegistro>
+         <IdNumRegistro>94</IdNumRegistro>
          <CodigoCargo>12242</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4198,7 +4148,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>100</IdNumRegistro>
+         <IdNumRegistro>95</IdNumRegistro>
          <CodigoCargo>12243</CodigoCargo>
          <NumeroBaseLegal>3536</NumeroBaseLegal>
          <AnoBaseLegal>2011</AnoBaseLegal>
@@ -4208,7 +4158,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/euatw</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>101</IdNumRegistro>
+         <IdNumRegistro>96</IdNumRegistro>
          <CodigoCargo>12244</CodigoCargo>
          <NumeroBaseLegal>1664</NumeroBaseLegal>
          <AnoBaseLegal>1993</AnoBaseLegal>
@@ -4218,7 +4168,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/vwhig</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>102</IdNumRegistro>
+         <IdNumRegistro>97</IdNumRegistro>
          <CodigoCargo>12247</CodigoCargo>
          <NumeroBaseLegal>3265</NumeroBaseLegal>
          <AnoBaseLegal>2009</AnoBaseLegal>
@@ -4228,17 +4178,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/wfjtu</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>103</IdNumRegistro>
-         <CodigoCargo>13247</CodigoCargo>
-         <NumeroBaseLegal>2893</NumeroBaseLegal>
-         <AnoBaseLegal>2006</AnoBaseLegal>
-         <TipoBaseLegal>1</TipoBaseLegal>
-         <DataPublicacao>2006-03-28</DataPublicacao>
-         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
-         <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
-      </NormativoCargo>
-      <NormativoCargo>
-         <IdNumRegistro>104</IdNumRegistro>
+         <IdNumRegistro>98</IdNumRegistro>
          <CodigoCargo>13252</CodigoCargo>
          <NumeroBaseLegal>3939</NumeroBaseLegal>
          <AnoBaseLegal>2015</AnoBaseLegal>
@@ -4248,7 +4188,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/sudwo</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>105</IdNumRegistro>
+         <IdNumRegistro>99</IdNumRegistro>
          <CodigoCargo>13254</CodigoCargo>
          <NumeroBaseLegal>3939</NumeroBaseLegal>
          <AnoBaseLegal>2015</AnoBaseLegal>
@@ -4258,7 +4198,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/sudwo</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>106</IdNumRegistro>
+         <IdNumRegistro>100</IdNumRegistro>
          <CodigoCargo>13260</CodigoCargo>
          <NumeroBaseLegal>2893</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4268,7 +4208,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>107</IdNumRegistro>
+         <IdNumRegistro>101</IdNumRegistro>
          <CodigoCargo>13261</CodigoCargo>
          <NumeroBaseLegal>520</NumeroBaseLegal>
          <AnoBaseLegal>1993</AnoBaseLegal>
@@ -4278,7 +4218,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/gaxon</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>108</IdNumRegistro>
+         <IdNumRegistro>102</IdNumRegistro>
          <CodigoCargo>13263</CodigoCargo>
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4288,7 +4228,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/xlpmn</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>109</IdNumRegistro>
+         <IdNumRegistro>103</IdNumRegistro>
          <CodigoCargo>13264</CodigoCargo>
          <NumeroBaseLegal>2893</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4298,7 +4238,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>110</IdNumRegistro>
+         <IdNumRegistro>104</IdNumRegistro>
          <CodigoCargo>13265</CodigoCargo>
          <NumeroBaseLegal>2896</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
@@ -4308,47 +4248,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
       <NormativoCargo>
-         <IdNumRegistro>111</IdNumRegistro>
-         <CodigoCargo>13267</CodigoCargo>
-         <NumeroBaseLegal>2896</NumeroBaseLegal>
-         <AnoBaseLegal>2006</AnoBaseLegal>
-         <TipoBaseLegal>1</TipoBaseLegal>
-         <DataPublicacao>2006-03-31</DataPublicacao>
-         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
-         <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
-      </NormativoCargo>
-      <NormativoCargo>
-         <IdNumRegistro>112</IdNumRegistro>
-         <CodigoCargo>13273</CodigoCargo>
-         <NumeroBaseLegal>2896</NumeroBaseLegal>
-         <AnoBaseLegal>2006</AnoBaseLegal>
-         <TipoBaseLegal>1</TipoBaseLegal>
-         <DataPublicacao>2006-03-31</DataPublicacao>
-         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
-         <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
-      </NormativoCargo>
-      <NormativoCargo>
-         <IdNumRegistro>113</IdNumRegistro>
-         <CodigoCargo>13275</CodigoCargo>
-         <NumeroBaseLegal>2893</NumeroBaseLegal>
-         <AnoBaseLegal>2006</AnoBaseLegal>
-         <TipoBaseLegal>1</TipoBaseLegal>
-         <DataPublicacao>2006-03-28</DataPublicacao>
-         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
-         <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
-      </NormativoCargo>
-      <NormativoCargo>
-         <IdNumRegistro>114</IdNumRegistro>
-         <CodigoCargo>13276</CodigoCargo>
-         <NumeroBaseLegal>2896</NumeroBaseLegal>
-         <AnoBaseLegal>2006</AnoBaseLegal>
-         <TipoBaseLegal>1</TipoBaseLegal>
-         <DataPublicacao>2006-03-31</DataPublicacao>
-         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
-         <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
-      </NormativoCargo>
-      <NormativoCargo>
-         <IdNumRegistro>115</IdNumRegistro>
+         <IdNumRegistro>105</IdNumRegistro>
          <CodigoCargo>13279</CodigoCargo>
          <NumeroBaseLegal>3297</NumeroBaseLegal>
          <AnoBaseLegal>2010</AnoBaseLegal>

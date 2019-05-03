@@ -180,7 +180,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>100001</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>10</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>100001</NaturezaDespesa>
+         <NaturezaDespesa>31901101</NaturezaDespesa>
          <Valor>12467.49</Valor>
          <Quantidade>8</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
