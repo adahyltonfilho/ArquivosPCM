@@ -8,7 +8,7 @@
          <TipoCargo>99</TipoCargo>
          <ValorTetoRemuneratorio>17669.70</ValorTetoRemuneratorio>
          <TipoVinculo>1</TipoVinculo>
-         <NaturezaCargo>1</NaturezaCargo>
+         <NaturezaCargo>1</NaturezaCargo> 
          <RegimeJuridico>2</RegimeJuridico>
          <EscolaridadeMinima>6</EscolaridadeMinima>
          <AreaFormacao>Pedagogia</AreaFormacao>
@@ -783,7 +783,7 @@ pavimentação, desmatamento, retirada de cascalhos, dragagens em rios  e conser
          <IdadeMaxima>65</IdadeMaxima>
          <OrigemCargo>2</OrigemCargo>
       </Cargo>
-      <Cargo>
+	  <Cargo>
          <IdNumRegistro>33</IdNumRegistro>
          <CodigoCargo>10074</CodigoCargo>
          <NomeCargo>PEDAGOGO</NomeCargo>
@@ -2581,25 +2581,25 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <IdNumRegistro>1</IdNumRegistro>
          <CodigoCargo>10009</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>2</IdNumRegistro>
          <CodigoCargo>10012</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>3</IdNumRegistro>
          <CodigoCargo>10013</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>4</IdNumRegistro>
          <CodigoCargo>10015</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>5</IdNumRegistro>
@@ -2611,277 +2611,277 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <IdNumRegistro>6</IdNumRegistro>
          <CodigoCargo>10017</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>7</IdNumRegistro>
          <CodigoCargo>10018</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>8</IdNumRegistro>
          <CodigoCargo>10020</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>9</IdNumRegistro>
          <CodigoCargo>10022</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>10</IdNumRegistro>
          <CodigoCargo>10023</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>11</IdNumRegistro>
          <CodigoCargo>10024</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>12</IdNumRegistro>
          <CodigoCargo>10025</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>13</IdNumRegistro>
          <CodigoCargo>10027</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>14</IdNumRegistro>
          <CodigoCargo>10029</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>15</IdNumRegistro>
          <CodigoCargo>10030</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>16</IdNumRegistro>
          <CodigoCargo>10033</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>17</IdNumRegistro>
          <CodigoCargo>10034</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>44</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>18</IdNumRegistro>
          <CodigoCargo>10036</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>19</IdNumRegistro>
          <CodigoCargo>10042</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>20</IdNumRegistro>
          <CodigoCargo>10044</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>21</IdNumRegistro>
          <CodigoCargo>10048</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>44</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>22</IdNumRegistro>
          <CodigoCargo>10049</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>23</IdNumRegistro>
          <CodigoCargo>10050</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>24</IdNumRegistro>
          <CodigoCargo>10052</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>20</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>25</IdNumRegistro>
          <CodigoCargo>10054</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>26</IdNumRegistro>
          <CodigoCargo>10055</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>27</IdNumRegistro>
          <CodigoCargo>10056</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>44</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>28</IdNumRegistro>
          <CodigoCargo>10058</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>20</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>29</IdNumRegistro>
          <CodigoCargo>10060</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>44</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>30</IdNumRegistro>
          <CodigoCargo>10061</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>31</IdNumRegistro>
          <CodigoCargo>10067</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>32</IdNumRegistro>
          <CodigoCargo>10068</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>33</IdNumRegistro>
          <CodigoCargo>10074</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>0</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>34</IdNumRegistro>
          <CodigoCargo>10075</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>35</IdNumRegistro>
          <CodigoCargo>10076</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>36</IdNumRegistro>
          <CodigoCargo>10077</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>37</IdNumRegistro>
          <CodigoCargo>10078</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>38</IdNumRegistro>
          <CodigoCargo>10079</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>39</IdNumRegistro>
          <CodigoCargo>10081</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>40</IdNumRegistro>
          <CodigoCargo>10082</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>41</IdNumRegistro>
          <CodigoCargo>10084</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>42</IdNumRegistro>
          <CodigoCargo>10085</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>43</IdNumRegistro>
          <CodigoCargo>10087</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>44</IdNumRegistro>
          <CodigoCargo>10088</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>45</IdNumRegistro>
          <CodigoCargo>10089</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>46</IdNumRegistro>
          <CodigoCargo>10090</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>47</IdNumRegistro>
          <CodigoCargo>10094</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>48</IdNumRegistro>
          <CodigoCargo>10095</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>49</IdNumRegistro>
          <CodigoCargo>10101</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>44</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>50</IdNumRegistro>
          <CodigoCargo>10103</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>51</IdNumRegistro>
          <CodigoCargo>10105</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>52</IdNumRegistro>
@@ -2899,91 +2899,91 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <IdNumRegistro>54</IdNumRegistro>
          <CodigoCargo>10111</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>44</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>55</IdNumRegistro>
          <CodigoCargo>10130</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>56</IdNumRegistro>
          <CodigoCargo>10131</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>57</IdNumRegistro>
          <CodigoCargo>10134</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>58</IdNumRegistro>
          <CodigoCargo>10136</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>44</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>59</IdNumRegistro>
          <CodigoCargo>10139</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>60</IdNumRegistro>
          <CodigoCargo>10147</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>44</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>61</IdNumRegistro>
          <CodigoCargo>10152</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>62</IdNumRegistro>
          <CodigoCargo>10153</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>63</IdNumRegistro>
          <CodigoCargo>10162</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>64</IdNumRegistro>
          <CodigoCargo>10163</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>65</IdNumRegistro>
          <CodigoCargo>10165</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>66</IdNumRegistro>
          <CodigoCargo>10166</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>67</IdNumRegistro>
          <CodigoCargo>10170</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>68</IdNumRegistro>
          <CodigoCargo>10174</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>69</IdNumRegistro>
@@ -3001,7 +3001,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <IdNumRegistro>71</IdNumRegistro>
          <CodigoCargo>10184</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>44</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>72</IdNumRegistro>
@@ -3013,151 +3013,151 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <IdNumRegistro>73</IdNumRegistro>
          <CodigoCargo>10187</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>74</IdNumRegistro>
          <CodigoCargo>10188</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>75</IdNumRegistro>
          <CodigoCargo>10192</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>44</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>76</IdNumRegistro>
          <CodigoCargo>10193</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>77</IdNumRegistro>
          <CodigoCargo>10200</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>78</IdNumRegistro>
          <CodigoCargo>10202</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>79</IdNumRegistro>
          <CodigoCargo>10203</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>80</IdNumRegistro>
          <CodigoCargo>10205</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>81</IdNumRegistro>
          <CodigoCargo>10206</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>82</IdNumRegistro>
          <CodigoCargo>10210</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>83</IdNumRegistro>
          <CodigoCargo>10212</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>84</IdNumRegistro>
          <CodigoCargo>10216</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>85</IdNumRegistro>
          <CodigoCargo>10218</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>86</IdNumRegistro>
          <CodigoCargo>11231</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>44</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>87</IdNumRegistro>
          <CodigoCargo>12231</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>88</IdNumRegistro>
          <CodigoCargo>12232</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>89</IdNumRegistro>
          <CodigoCargo>12235</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>90</IdNumRegistro>
          <CodigoCargo>12236</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>91</IdNumRegistro>
          <CodigoCargo>12237</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>92</IdNumRegistro>
          <CodigoCargo>12238</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>93</IdNumRegistro>
          <CodigoCargo>12239</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>94</IdNumRegistro>
          <CodigoCargo>12242</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>44</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>95</IdNumRegistro>
          <CodigoCargo>12243</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>44</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>96</IdNumRegistro>
          <CodigoCargo>12244</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>44</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>97</IdNumRegistro>
          <CodigoCargo>12247</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>98</IdNumRegistro>
@@ -3175,37 +3175,37 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <IdNumRegistro>100</IdNumRegistro>
          <CodigoCargo>13260</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>20</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>101</IdNumRegistro>
          <CodigoCargo>13261</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>102</IdNumRegistro>
          <CodigoCargo>13263</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>103</IdNumRegistro>
          <CodigoCargo>13264</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>20</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>104</IdNumRegistro>
          <CodigoCargo>13265</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>25</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <CargaHoraria>
          <IdNumRegistro>105</IdNumRegistro>
          <CodigoCargo>13279</CodigoCargo>
          <TipoCargaHoraria>S</TipoCargaHoraria>
-         <ValorCargaHoraria>30</ValorCargaHoraria>
+         <ValorCargaHoraria>40</ValorCargaHoraria>
       </CargaHoraria>
       <NormativoCargo>
          <IdNumRegistro>1</IdNumRegistro>
@@ -3327,7 +3327,16 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
          <URLBaseLegal>http://leismunicipa.is/vwhig</URLBaseLegal>
       </NormativoCargo>
-
+      <NormativoCargo>
+         <IdNumRegistro>13</IdNumRegistro>
+         <CodigoCargo>10026</CodigoCargo>
+         <NumeroBaseLegal>2897</NumeroBaseLegal>
+         <AnoBaseLegal>2019</AnoBaseLegal>
+         <TipoBaseLegal>1</TipoBaseLegal>
+         <DataPublicacao>2006-03-31</DataPublicacao>
+         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
+         <URLBaseLegal>http://leismunicipa.is/xlpmn</URLBaseLegal>
+      </NormativoCargo>
       <NormativoCargo>
          <IdNumRegistro>14</IdNumRegistro>
          <CodigoCargo>10027</CodigoCargo>
@@ -3378,7 +3387,16 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
          <URLBaseLegal>http://leismunicipa.is/vwhig</URLBaseLegal>
       </NormativoCargo>
-
+      <NormativoCargo>
+         <IdNumRegistro>19</IdNumRegistro>
+         <CodigoCargo>10035</CodigoCargo>
+         <NumeroBaseLegal>2893</NumeroBaseLegal>
+         <AnoBaseLegal>2006</AnoBaseLegal>
+         <TipoBaseLegal>1</TipoBaseLegal>
+         <DataPublicacao>2006-03-28</DataPublicacao>
+         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
+         <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
+      </NormativoCargo>
       <NormativoCargo>
          <IdNumRegistro>20</IdNumRegistro>
          <CodigoCargo>10036</CodigoCargo>
@@ -3479,7 +3497,16 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
-
+      <NormativoCargo>
+         <IdNumRegistro>30</IdNumRegistro>
+         <CodigoCargo>10057</CodigoCargo>
+         <NumeroBaseLegal>2893</NumeroBaseLegal>
+         <AnoBaseLegal>2006</AnoBaseLegal>
+         <TipoBaseLegal>1</TipoBaseLegal>
+         <DataPublicacao>2006-03-28</DataPublicacao>
+         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
+         <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
+      </NormativoCargo>
       <NormativoCargo>
          <IdNumRegistro>31</IdNumRegistro>
          <CodigoCargo>10058</CodigoCargo>
@@ -3500,7 +3527,7 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
          <URLBaseLegal>http://leismunicipa.is/euatw</URLBaseLegal>
       </NormativoCargo>
-	  <NormativoCargo>
+      <NormativoCargo>
          <IdNumRegistro>33</IdNumRegistro>
          <CodigoCargo>10061</CodigoCargo>
          <NumeroBaseLegal>2896</NumeroBaseLegal>
@@ -3510,7 +3537,6 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
-
       <NormativoCargo>
          <IdNumRegistro>34</IdNumRegistro>
          <CodigoCargo>10067</CodigoCargo>
@@ -3541,7 +3567,6 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
          <URLBaseLegal>https://leismunicipais.com.br/a2/es/a/aracruz/lei-ordinaria/2006/290/2897/lei-ordinaria-n-2897-2006-</URLBaseLegal>
       </NormativoCargo>
-	  
       <NormativoCargo>
          <IdNumRegistro>37</IdNumRegistro>
          <CodigoCargo>10075</CodigoCargo>
@@ -3692,7 +3717,16 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
-
+      <NormativoCargo>
+         <IdNumRegistro>52</IdNumRegistro>
+         <CodigoCargo>10097</CodigoCargo>
+         <NumeroBaseLegal>2893</NumeroBaseLegal>
+         <AnoBaseLegal>2006</AnoBaseLegal>
+         <TipoBaseLegal>1</TipoBaseLegal>
+         <DataPublicacao>2006-03-28</DataPublicacao>
+         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
+         <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
+      </NormativoCargo>
       <NormativoCargo>
          <IdNumRegistro>53</IdNumRegistro>
          <CodigoCargo>10101</CodigoCargo>
@@ -4143,7 +4177,16 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
          <URLBaseLegal>http://leismunicipa.is/euatw</URLBaseLegal>
       </NormativoCargo>
-
+      <NormativoCargo>
+         <IdNumRegistro>98</IdNumRegistro>
+         <CodigoCargo>12241</CodigoCargo>
+         <NumeroBaseLegal>2893</NumeroBaseLegal>
+         <AnoBaseLegal>2006</AnoBaseLegal>
+         <TipoBaseLegal>1</TipoBaseLegal>
+         <DataPublicacao>2006-03-28</DataPublicacao>
+         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
+         <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
+      </NormativoCargo>
       <NormativoCargo>
          <IdNumRegistro>99</IdNumRegistro>
          <CodigoCargo>12242</CodigoCargo>
@@ -4184,7 +4227,16 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
          <URLBaseLegal>http://leismunicipa.is/wfjtu</URLBaseLegal>
       </NormativoCargo>
-
+      <NormativoCargo>
+         <IdNumRegistro>103</IdNumRegistro>
+         <CodigoCargo>13247</CodigoCargo>
+         <NumeroBaseLegal>2893</NumeroBaseLegal>
+         <AnoBaseLegal>2006</AnoBaseLegal>
+         <TipoBaseLegal>1</TipoBaseLegal>
+         <DataPublicacao>2006-03-28</DataPublicacao>
+         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
+         <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
+      </NormativoCargo>
       <NormativoCargo>
          <IdNumRegistro>104</IdNumRegistro>
          <CodigoCargo>13252</CodigoCargo>
@@ -4255,7 +4307,46 @@ indireta, autárquica ou fundacional</AtribuicoesCargo>
          <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
          <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
       </NormativoCargo>
-
+      <NormativoCargo>
+         <IdNumRegistro>111</IdNumRegistro>
+         <CodigoCargo>13267</CodigoCargo>
+         <NumeroBaseLegal>2896</NumeroBaseLegal>
+         <AnoBaseLegal>2006</AnoBaseLegal>
+         <TipoBaseLegal>1</TipoBaseLegal>
+         <DataPublicacao>2006-03-31</DataPublicacao>
+         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
+         <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
+      </NormativoCargo>
+      <NormativoCargo>
+         <IdNumRegistro>112</IdNumRegistro>
+         <CodigoCargo>13273</CodigoCargo>
+         <NumeroBaseLegal>2896</NumeroBaseLegal>
+         <AnoBaseLegal>2006</AnoBaseLegal>
+         <TipoBaseLegal>1</TipoBaseLegal>
+         <DataPublicacao>2006-03-31</DataPublicacao>
+         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
+         <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
+      </NormativoCargo>
+      <NormativoCargo>
+         <IdNumRegistro>113</IdNumRegistro>
+         <CodigoCargo>13275</CodigoCargo>
+         <NumeroBaseLegal>2893</NumeroBaseLegal>
+         <AnoBaseLegal>2006</AnoBaseLegal>
+         <TipoBaseLegal>1</TipoBaseLegal>
+         <DataPublicacao>2006-03-28</DataPublicacao>
+         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
+         <URLBaseLegal>http://leismunicipa.is/jekgc</URLBaseLegal>
+      </NormativoCargo>
+      <NormativoCargo>
+         <IdNumRegistro>114</IdNumRegistro>
+         <CodigoCargo>13276</CodigoCargo>
+         <NumeroBaseLegal>2896</NumeroBaseLegal>
+         <AnoBaseLegal>2006</AnoBaseLegal>
+         <TipoBaseLegal>1</TipoBaseLegal>
+         <DataPublicacao>2006-03-31</DataPublicacao>
+         <TipoVeiculoPublicacao >1</TipoVeiculoPublicacao >
+         <URLBaseLegal>http://leismunicipa.is/kejgc</URLBaseLegal>
+      </NormativoCargo>
       <NormativoCargo>
          <IdNumRegistro>115</IdNumRegistro>
          <CodigoCargo>13279</CodigoCargo>

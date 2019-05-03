@@ -10,7 +10,7 @@
          <IdNumRegistro>1</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoItem>1</CodigoItem>
-         <Valor>2693838.31</Valor>
+         <Valor>2687464.53</Valor>
       </ConsolidacaoFolhaValor>
       <ConsolidacaoFolhaValor>
          <IdNumRegistro>2</IdNumRegistro>
@@ -22,7 +22,7 @@
          <IdNumRegistro>3</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoItem>3</CodigoItem>
-         <Valor>2263180.12</Valor>
+         <Valor>2256806.34</Valor>
       </ConsolidacaoFolhaValor>
       <ConsolidacaoFolhaValor>
          <IdNumRegistro>4</IdNumRegistro>
@@ -185,7 +185,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>100001</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>10</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>100001</NaturezaDespesa>
          <Valor>12467.49</Valor>
          <Quantidade>8</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -194,7 +194,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>100005</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3429</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>100005</NaturezaDespesa>
          <Valor>11740.65</Valor>
          <Quantidade>2</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -203,7 +203,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>100005</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3616</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>100005</NaturezaDespesa>
          <Valor>7146.26</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -212,7 +212,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>100006</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3416</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>100006</NaturezaDespesa>
          <Valor>4829.94</Valor>
          <Quantidade>7</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -221,7 +221,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>100006</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3416F</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>100006</NaturezaDespesa>
          <Valor>1609.40</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -230,7 +230,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>100121</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3617</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>100121</NaturezaDespesa>
          <Valor>17193.60</Valor>
          <Quantidade>4</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -239,7 +239,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>100500</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora> 2252     </CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>100500</NaturezaDespesa>
          <Valor>148.54</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -248,7 +248,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>100500</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora> 2261     </CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>100500</NaturezaDespesa>
          <Valor>948.25</Valor>
          <Quantidade>2</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -257,7 +257,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>100500</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>70</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>100500</NaturezaDespesa>
          <Valor>56.86</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -266,7 +266,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161020</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>10F</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161020</NaturezaDespesa>
          <Valor>4800.30</Valor>
          <Quantidade>2</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -275,7 +275,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161020</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>FERIAS.13</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161020</NaturezaDespesa>
          <Valor>7134.95</Valor>
          <Quantidade>2</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -284,7 +284,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161099</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3604</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161099</NaturezaDespesa>
          <Valor>346.58</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -293,7 +293,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161206</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora> 2253     </CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161206</NaturezaDespesa>
          <Valor>98017.11</Valor>
          <Quantidade>439</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -302,7 +302,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161206</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora> 2254     </CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161206</NaturezaDespesa>
          <Valor>239.43</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -311,7 +311,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161206</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora> 2259     </CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161206</NaturezaDespesa>
          <Valor>293.16</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -320,7 +320,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161206</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>2250     </CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161206</NaturezaDespesa>
          <Valor>120351.72</Valor>
          <Quantidade>407</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -329,7 +329,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161206</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>2257     </CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161206</NaturezaDespesa>
          <Valor>89619.59</Valor>
          <Quantidade>276</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -338,7 +338,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161206</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>2258     </CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161206</NaturezaDespesa>
          <Valor>137618.68</Valor>
          <Quantidade>387</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -347,7 +347,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161206</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3420</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161206</NaturezaDespesa>
          <Valor>616.80</Valor>
          <Quantidade>2</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -356,7 +356,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161206</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3421</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161206</NaturezaDespesa>
          <Valor>2535.44</Valor>
          <Quantidade>9</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -365,7 +365,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161206</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3421F</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161206</NaturezaDespesa>
          <Valor>1126.42</Valor>
          <Quantidade>2</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -374,7 +374,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161206</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3449</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161206</NaturezaDespesa>
          <Valor>447.06</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -383,7 +383,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161213</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>33260 F</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161213</NaturezaDespesa>
          <Valor>2501.93</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -392,7 +392,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161213</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3430</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161213</NaturezaDespesa>
          <Valor>5824.50</Valor>
          <Quantidade>3</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -401,7 +401,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161213</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3486</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161213</NaturezaDespesa>
          <Valor>844.33</Valor>
          <Quantidade>3</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -410,7 +410,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161213</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3490</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161213</NaturezaDespesa>
          <Valor>1159.58</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -419,7 +419,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161213</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3599F</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161213</NaturezaDespesa>
          <Valor>639.34</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -428,7 +428,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161213</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3614</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161213</NaturezaDespesa>
          <Valor>5591.31</Valor>
          <Quantidade>4</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -437,7 +437,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161213</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3634 F</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161213</NaturezaDespesa>
          <Valor>9154.40</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -446,7 +446,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161213</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>41</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161213</NaturezaDespesa>
          <Valor>695.12</Valor>
          <Quantidade>2</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -455,7 +455,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161213</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>78</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161213</NaturezaDespesa>
          <Valor>2426.87</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -464,7 +464,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161299</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>2264     </CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161299</NaturezaDespesa>
          <Valor>0.00</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -473,7 +473,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161299</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>33273</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161299</NaturezaDespesa>
          <Valor>30.66</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -482,7 +482,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161401</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>33</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161401</NaturezaDespesa>
          <Valor>33905.91</Valor>
          <Quantidade>263</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -491,7 +491,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161401</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3587F</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161401</NaturezaDespesa>
          <Valor>71.91</Valor>
          <Quantidade>2</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -500,7 +500,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161409</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>9</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161409</NaturezaDespesa>
          <Valor>229.60</Valor>
          <Quantidade>4</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -509,7 +509,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161412</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3425</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161412</NaturezaDespesa>
          <Valor>570.93</Valor>
          <Quantidade>2</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -518,7 +518,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>161412</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3610F</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>161412</NaturezaDespesa>
          <Valor>354.07</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -527,7 +527,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>164011</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>39</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>164011</NaturezaDespesa>
          <Valor>88920.24</Valor>
          <Quantidade>447</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -536,7 +536,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>164050</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>8</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>164050</NaturezaDespesa>
          <Valor>864.83</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -545,7 +545,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>167001</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>1</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>167001</NaturezaDespesa>
          <Valor>2826.43</Valor>
          <Quantidade>3</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -554,7 +554,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>167001</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>2</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>167001</NaturezaDespesa>
          <Valor>58860.59</Valor>
          <Quantidade>58</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -563,7 +563,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>167001</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>2000</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>167001</NaturezaDespesa>
          <Valor>1857008.40</Valor>
          <Quantidade>1199</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -572,7 +572,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>167001</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>167001</NaturezaDespesa>
          <Valor>3128.26</Valor>
          <Quantidade>3</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -581,7 +581,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>167001</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>4</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>167001</NaturezaDespesa>
          <Valor>12122.35</Valor>
          <Quantidade>5</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -590,7 +590,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>167002</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>7</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>167002</NaturezaDespesa>
          <Valor>75544.74</Valor>
          <Quantidade>63</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -599,7 +599,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>261899</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3476</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>261899</NaturezaDespesa>
          <Valor>4200.00</Valor>
          <Quantidade>12</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -608,7 +608,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>261899</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>3476F</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>261899</NaturezaDespesa>
          <Valor>700.00</Valor>
          <Quantidade>2</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -617,7 +617,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>300011</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>14F</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>300011</NaturezaDespesa>
          <Valor>5519.98</Valor>
          <Quantidade>2</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -626,7 +626,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>369201</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>11</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>369201</NaturezaDespesa>
          <Valor>1813.30</Valor>
          <Quantidade>9</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -635,7 +635,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>369201</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>11F</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>369201</NaturezaDespesa>
          <Valor>701.12</Valor>
          <Quantidade>2</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -644,7 +644,7 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>369201</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>12</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>369201</NaturezaDespesa>
          <Valor>2952.61</Valor>
          <Quantidade>9</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
@@ -653,151 +653,142 @@
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>369201</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>13</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>369201</NaturezaDespesa>
          <Valor>642.33</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
       <ConsolidacaoFolhaVantagemDesconto>
          <IdNumRegistro>54</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
-         <CodigoVantagemDescontoTCEES>369201</CodigoVantagemDescontoTCEES>
-         <CodigoVantagemDescontoUnidadeGestora>26F</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
-         <Valor>6373.78</Valor>
-         <Quantidade>2</Quantidade>
-      </ConsolidacaoFolhaVantagemDesconto>
-      <ConsolidacaoFolhaVantagemDesconto>
-         <IdNumRegistro>55</IdNumRegistro>
-         <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>369203</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>14</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>369203</NaturezaDespesa>
          <Valor>80819.17</Valor>
          <Quantidade>325</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
       <ConsolidacaoFolhaVantagemDesconto>
-         <IdNumRegistro>56</IdNumRegistro>
+         <IdNumRegistro>55</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>369213</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>15</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>369213</NaturezaDespesa>
          <Valor>2280.21</Valor>
          <Quantidade>9</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
       <ConsolidacaoFolhaVantagemDesconto>
-         <IdNumRegistro>57</IdNumRegistro>
+         <IdNumRegistro>56</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>369218</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>57</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>369218</NaturezaDespesa>
          <Valor>93.85</Valor>
+         <Quantidade>2</Quantidade>
+      </ConsolidacaoFolhaVantagemDesconto>
+      <ConsolidacaoFolhaVantagemDesconto>
+         <IdNumRegistro>57</IdNumRegistro>
+         <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
+         <CodigoVantagemDescontoTCEES>369219</CodigoVantagemDescontoTCEES>
+         <CodigoVantagemDescontoUnidadeGestora>346</CodigoVantagemDescontoUnidadeGestora>
+         <NaturezaDespesa>369219</NaturezaDespesa>
+         <Valor>59.40</Valor>
          <Quantidade>2</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
       <ConsolidacaoFolhaVantagemDesconto>
          <IdNumRegistro>58</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
-         <CodigoVantagemDescontoTCEES>369219</CodigoVantagemDescontoTCEES>
-         <CodigoVantagemDescontoUnidadeGestora>346</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
-         <Valor>59.40</Valor>
+         <CodigoVantagemDescontoTCEES>369221</CodigoVantagemDescontoTCEES>
+         <CodigoVantagemDescontoUnidadeGestora>2930</CodigoVantagemDescontoUnidadeGestora>
+         <NaturezaDespesa>369221</NaturezaDespesa>
+         <Valor>21276.71</Valor>
          <Quantidade>2</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
       <ConsolidacaoFolhaVantagemDesconto>
          <IdNumRegistro>59</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
-         <CodigoVantagemDescontoTCEES>369221</CodigoVantagemDescontoTCEES>
-         <CodigoVantagemDescontoUnidadeGestora>2930</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
-         <Valor>21276.71</Valor>
-         <Quantidade>2</Quantidade>
+         <CodigoVantagemDescontoTCEES>369231</CodigoVantagemDescontoTCEES>
+         <CodigoVantagemDescontoUnidadeGestora>3469</CodigoVantagemDescontoUnidadeGestora>
+         <NaturezaDespesa>369231</NaturezaDespesa>
+         <Valor>676.97</Valor>
+         <Quantidade>21</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
       <ConsolidacaoFolhaVantagemDesconto>
          <IdNumRegistro>60</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>369231</CodigoVantagemDescontoTCEES>
-         <CodigoVantagemDescontoUnidadeGestora>3469</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
-         <Valor>676.97</Valor>
-         <Quantidade>21</Quantidade>
+         <CodigoVantagemDescontoUnidadeGestora>53</CodigoVantagemDescontoUnidadeGestora>
+         <NaturezaDespesa>369231</NaturezaDespesa>
+         <Valor>14666.91</Valor>
+         <Quantidade>560</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
       <ConsolidacaoFolhaVantagemDesconto>
          <IdNumRegistro>61</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
-         <CodigoVantagemDescontoTCEES>369231</CodigoVantagemDescontoTCEES>
-         <CodigoVantagemDescontoUnidadeGestora>53</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
-         <Valor>14666.91</Valor>
-         <Quantidade>560</Quantidade>
+         <CodigoVantagemDescontoTCEES>369250</CodigoVantagemDescontoTCEES>
+         <CodigoVantagemDescontoUnidadeGestora>34</CodigoVantagemDescontoUnidadeGestora>
+         <NaturezaDespesa>369250</NaturezaDespesa>
+         <Valor>6045.52</Valor>
+         <Quantidade>143</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
       <ConsolidacaoFolhaVantagemDesconto>
          <IdNumRegistro>62</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>369250</CodigoVantagemDescontoTCEES>
-         <CodigoVantagemDescontoUnidadeGestora>34</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
-         <Valor>6045.52</Valor>
-         <Quantidade>143</Quantidade>
+         <CodigoVantagemDescontoUnidadeGestora>3822</CodigoVantagemDescontoUnidadeGestora>
+         <NaturezaDespesa>369250</NaturezaDespesa>
+         <Valor>8023.77</Valor>
+         <Quantidade>185</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
       <ConsolidacaoFolhaVantagemDesconto>
          <IdNumRegistro>63</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
-         <CodigoVantagemDescontoTCEES>369250</CodigoVantagemDescontoTCEES>
-         <CodigoVantagemDescontoUnidadeGestora>3822</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
-         <Valor>8023.77</Valor>
-         <Quantidade>185</Quantidade>
+         <CodigoVantagemDescontoTCEES>369254</CodigoVantagemDescontoTCEES>
+         <CodigoVantagemDescontoUnidadeGestora>32</CodigoVantagemDescontoUnidadeGestora>
+         <NaturezaDespesa>369254</NaturezaDespesa>
+         <Valor>105426.06</Valor>
+         <Quantidade>301</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
       <ConsolidacaoFolhaVantagemDesconto>
          <IdNumRegistro>64</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>369254</CodigoVantagemDescontoTCEES>
-         <CodigoVantagemDescontoUnidadeGestora>32</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
-         <Valor>105426.06</Valor>
-         <Quantidade>301</Quantidade>
+         <CodigoVantagemDescontoUnidadeGestora>38</CodigoVantagemDescontoUnidadeGestora>
+         <NaturezaDespesa>369254</NaturezaDespesa>
+         <Valor>128800.18</Valor>
+         <Quantidade>343</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
       <ConsolidacaoFolhaVantagemDesconto>
          <IdNumRegistro>65</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>369254</CodigoVantagemDescontoTCEES>
-         <CodigoVantagemDescontoUnidadeGestora>38</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
-         <Valor>128800.18</Valor>
-         <Quantidade>343</Quantidade>
+         <CodigoVantagemDescontoUnidadeGestora>42</CodigoVantagemDescontoUnidadeGestora>
+         <NaturezaDespesa>369254</NaturezaDespesa>
+         <Valor>19537.73</Valor>
+         <Quantidade>49</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
       <ConsolidacaoFolhaVantagemDesconto>
          <IdNumRegistro>66</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
-         <CodigoVantagemDescontoTCEES>369254</CodigoVantagemDescontoTCEES>
-         <CodigoVantagemDescontoUnidadeGestora>42</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
-         <Valor>19537.73</Valor>
-         <Quantidade>49</Quantidade>
+         <CodigoVantagemDescontoTCEES>369258</CodigoVantagemDescontoTCEES>
+         <CodigoVantagemDescontoUnidadeGestora>36</CodigoVantagemDescontoUnidadeGestora>
+         <NaturezaDespesa>369258</NaturezaDespesa>
+         <Valor>596.36</Valor>
+         <Quantidade>3</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
       <ConsolidacaoFolhaVantagemDesconto>
          <IdNumRegistro>67</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>369258</CodigoVantagemDescontoTCEES>
-         <CodigoVantagemDescontoUnidadeGestora>36</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
-         <Valor>596.36</Valor>
-         <Quantidade>3</Quantidade>
+         <CodigoVantagemDescontoUnidadeGestora>3850</CodigoVantagemDescontoUnidadeGestora>
+         <NaturezaDespesa>369258</NaturezaDespesa>
+         <Valor>30674.01</Valor>
+         <Quantidade>87</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>
       <ConsolidacaoFolhaVantagemDesconto>
          <IdNumRegistro>68</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
          <CodigoVantagemDescontoTCEES>369258</CodigoVantagemDescontoTCEES>
-         <CodigoVantagemDescontoUnidadeGestora>3850</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
-         <Valor>30674.01</Valor>
-         <Quantidade>87</Quantidade>
-      </ConsolidacaoFolhaVantagemDesconto>
-      <ConsolidacaoFolhaVantagemDesconto>
-         <IdNumRegistro>69</IdNumRegistro>
-         <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
-         <CodigoVantagemDescontoTCEES>369258</CodigoVantagemDescontoTCEES>
          <CodigoVantagemDescontoUnidadeGestora>45</CodigoVantagemDescontoUnidadeGestora>
-         <NaturezaDespesa>44905229</NaturezaDespesa>
+         <NaturezaDespesa>369258</NaturezaDespesa>
          <Valor>52.00</Valor>
          <Quantidade>1</Quantidade>
       </ConsolidacaoFolhaVantagemDesconto>

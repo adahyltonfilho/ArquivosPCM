@@ -316,39 +316,6 @@
          <NumeroBaseLegal>2897</NumeroBaseLegal>
          <AnoBaseLegal>2006</AnoBaseLegal>
       </VantagemDesconto>
- 
-      <VantagemDesconto>
-         <IdNumRegistro>23</IdNumRegistro>
-         <CodigoVantagemDesconto>26F</CodigoVantagemDesconto>
-         <NomeVantagemDesconto>BASE DE CALCULO PREVIDENCIA FERIAS</NomeVantagemDesconto>
-         <Enquadramento>369201</Enquadramento>
-         <TipoVerba>4</TipoVerba>
-         <BaseIRPF>2</BaseIRPF>
-         <BaseINSS>2</BaseINSS>
-         <BaseRPPS>2</BaseRPPS>
-         <BaseFGTS>2</BaseFGTS>
-         <Teto>2</Teto>
-         <TipoBaseLegal>1</TipoBaseLegal>
-         <NumeroBaseLegal>3297</NumeroBaseLegal>
-         <AnoBaseLegal>2010</AnoBaseLegal>
-      </VantagemDesconto>
- 
-      <VantagemDesconto>
-         <IdNumRegistro>25</IdNumRegistro>
-         <CodigoVantagemDesconto>27F</CodigoVantagemDesconto>
-         <NomeVantagemDesconto>BASE DE CALCULO I.R.R.F. FERIAS</NomeVantagemDesconto>
-         <Enquadramento>300011</Enquadramento>
-         <TipoVerba>4</TipoVerba>
-         <BaseIRPF>2</BaseIRPF>
-         <BaseINSS>2</BaseINSS>
-         <BaseRPPS>2</BaseRPPS>
-         <BaseFGTS>2</BaseFGTS>
-         <Teto>2</Teto>
-         <TipoBaseLegal>1</TipoBaseLegal>
-         <NumeroBaseLegal>3297</NumeroBaseLegal>
-         <AnoBaseLegal>2010</AnoBaseLegal>
-      </VantagemDesconto>
-
       <VantagemDesconto>
          <IdNumRegistro>27</IdNumRegistro>
          <CodigoVantagemDesconto>2930</CodigoVantagemDesconto>
