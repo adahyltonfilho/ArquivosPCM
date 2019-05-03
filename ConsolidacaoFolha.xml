@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <FolhaPagamento>
    <ConsolidacaoFolha_Schema>
-      <DelegacaoUnidadeGestora>
-         <IdNumRegistro>1</IdNumRegistro> 
-         <UnidadeGestoraDelegante>009E0800001</UnidadeGestoraDelegante> 
-         <NomeUnidadeGestoraDelegante>IPASMA - INST. PREV. ASSIST. SERV. MUN. ARACRUZ</NomeUnidadeGestoraDelegante> 
-      </DelegacaoUnidadeGestora> 
       <ConsolidacaoFolhaValor>
          <IdNumRegistro>1</IdNumRegistro>
          <UnidadeGestoraResponsavel>009E0800001</UnidadeGestoraResponsavel>
